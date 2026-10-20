@@ -1,0 +1,9 @@
+# Local photoreal Device Simulator overlays (imported via menu; not for MIT export).
+Editor/Devices/DeviceOverlays/*_Main_Overlay.png
+Editor/Devices/DeviceOverlays/*_Main_Overlay.png.meta
+Editor/Devices/DeviceOverlays/*_Main_Overlay.borders.json
+# Generated skins stay local too.
+Editor/Devices/*.device
+Editor/Devices/*.device.meta
+Editor/Devices/*.device.off
+Editor/Devices/*.device.off.meta

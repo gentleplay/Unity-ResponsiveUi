@@ -1,0 +1,25 @@
+{
+    "id":  "oneplus-nord-5",
+    "shortName":  "OnePlus Nord 5",
+    "brand":  "OnePlus",
+    "deviceModel":  "CPH2709",
+    "kind":  "Phone",
+    "portraitWidth":  1272,
+    "portraitHeight":  2800,
+    "landscapeWidth":  2800,
+    "landscapeHeight":  1272,
+    "dpi":  450,
+    "diagonalInches":  6.83,
+    "basedOn":  "OnePlus Nord 5",
+    "notes":  "",
+    "verifiedDate":  "2026-08-10",
+    "verifiedStatus":  "matched",
+    "deviceFile":  "Editor/Devices/oneplus-nord-5.device",
+    "sources":  [
+                    {
+                        "title":  "GSMArena OnePlus Nord 5",
+                        "url":  "https://www.gsmarena.com/oneplus_nord_5_5g-13992.php",
+                        "quote":  "1272 x 2800 pixels (~450 ppi); 6.83-inch"
+                    }
+                ]
+}

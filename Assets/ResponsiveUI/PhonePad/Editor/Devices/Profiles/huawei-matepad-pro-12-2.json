@@ -1,0 +1,25 @@
+{
+    "id":  "huawei-matepad-pro-12-2",
+    "shortName":  "MatePad Pro 12.2",
+    "brand":  "Huawei",
+    "deviceModel":  "VER-AL10",
+    "kind":  "Pad",
+    "portraitWidth":  1840,
+    "portraitHeight":  2800,
+    "landscapeWidth":  2800,
+    "landscapeHeight":  1840,
+    "dpi":  274,
+    "diagonalInches":  12.2,
+    "basedOn":  "Huawei MatePad Pro 12.2",
+    "notes":  "",
+    "verifiedDate":  "2026-08-10",
+    "verifiedStatus":  "matched",
+    "deviceFile":  "Editor/Devices/huawei-matepad-pro-12-2.device",
+    "sources":  [
+                    {
+                        "title":  "Huawei SG MatePad Pro 12.2",
+                        "url":  "https://consumer.huawei.com/sg/tablets/matepad-pro-12-2/specs/",
+                        "quote":  "2800 x 1840, 274 ppi"
+                    }
+                ]
+}

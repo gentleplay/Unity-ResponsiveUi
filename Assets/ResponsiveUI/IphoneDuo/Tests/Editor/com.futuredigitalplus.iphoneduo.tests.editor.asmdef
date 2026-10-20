@@ -1,0 +1,25 @@
+{
+    "name": "com.futuredigitalplus.iphoneduo.tests.editor",
+    "rootNamespace": "FDPlus.IphoneDuo.Tests",
+    "references": [
+        "com.futuredigitalplus.foldandflip",
+        "com.futuredigitalplus.iphoneduo",
+        "com.futuredigitalplus.iphoneduo.editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false,
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ]
+}

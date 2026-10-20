@@ -1,0 +1,25 @@
+{
+    "id":  "huawei-mate-60-pro",
+    "shortName":  "Huawei Mate 60 Pro",
+    "brand":  "Huawei",
+    "deviceModel":  "ALN-AL10",
+    "kind":  "Phone",
+    "portraitWidth":  1260,
+    "portraitHeight":  2720,
+    "landscapeWidth":  2720,
+    "landscapeHeight":  1260,
+    "dpi":  460,
+    "diagonalInches":  6.82,
+    "basedOn":  "Huawei Mate 60 Pro",
+    "notes":  "Confirm on regional Huawei site",
+    "verifiedDate":  "2026-08-10",
+    "verifiedStatus":  "approx",
+    "deviceFile":  "Editor/Devices/huawei-mate-60-pro.device",
+    "sources":  [
+                    {
+                        "title":  "Huawei Mate 60 Pro",
+                        "url":  "https://consumer.huawei.com/en/phones/mate60-pro/",
+                        "quote":  "Display listing"
+                    }
+                ]
+}

@@ -1,0 +1,25 @@
+{
+    "id":  "huawei-matepad-11-5",
+    "shortName":  "MatePad 11.5",
+    "brand":  "Huawei",
+    "deviceModel":  "DBY2-W09",
+    "kind":  "Pad",
+    "portraitWidth":  1440,
+    "portraitHeight":  2200,
+    "landscapeWidth":  2200,
+    "landscapeHeight":  1440,
+    "dpi":  227,
+    "diagonalInches":  11.5,
+    "basedOn":  "Huawei MatePad 11.5",
+    "notes":  "",
+    "verifiedDate":  "2026-08-10",
+    "verifiedStatus":  "approx",
+    "deviceFile":  "Editor/Devices/huawei-matepad-11-5.device",
+    "sources":  [
+                    {
+                        "title":  "Huawei tablets",
+                        "url":  "https://consumer.huawei.com/en/tablets/",
+                        "quote":  "Family listing"
+                    }
+                ]
+}

@@ -1,0 +1,55 @@
+{
+    "id":  "motorola-razr-50-ultra-like",
+    "shortName":  "Motorola Razr 50 Ultra-like",
+    "listCategory":  "Flip",
+    "deviceModel":  "gamedev razr50-ultra-like",
+    "kind":  "FlipablePhone",
+    "preferredHinge":  "Horizontal",
+    "preferSeparating":  false,
+    "basedOn":  "Motorola razr 50 Ultra",
+    "notes":  "Closed = Cover. Opened / Flex = Main.",
+    "verifiedDate":  "2026-08-07",
+    "verifiedStatus":  "matched",
+    "sources":  [
+                    {
+                        "title":  "GSMArena - razr 50 Ultra",
+                        "url":  "https://www.gsmarena.com/motorola_razr_50_ultra-13150.php",
+                        "quote":  "Cover portrait 1080x1272 / landscape 1272x1080; Main 1080x2640"
+                    }
+                ],
+    "skins":  {
+                  "deviceFile":  "Editor/Devices/Motorola Razr 50 Ultra-like.device",
+                  "overlays":  [
+                                   {
+                                       "screen":  "Cover",
+                                       "path":  "Editor/Devices/DeviceOverlays/MotorolaRazr50UltraLike_Cover_Overlay.png"
+                                   },
+                                   {
+                                       "screen":  "Main",
+                                       "path":  "Editor/Devices/DeviceOverlays/MotorolaRazr50UltraLike_Main_Overlay.png"
+                                   }
+                               ]
+              },
+    "screens":  [
+                    {
+                        "name":  "Cover",
+                        "width":  1080,
+                        "height":  1272,
+                        "portraitWidth":  1080,
+                        "portraitHeight":  1272,
+                        "landscapeWidth":  1272,
+                        "landscapeHeight":  1080,
+                        "coverOrOuter":  true
+                    },
+                    {
+                        "name":  "Main",
+                        "width":  1080,
+                        "height":  2640,
+                        "portraitWidth":  1080,
+                        "portraitHeight":  2640,
+                        "landscapeWidth":  2640,
+                        "landscapeHeight":  1080,
+                        "coverOrOuter":  false
+                    }
+                ]
+}

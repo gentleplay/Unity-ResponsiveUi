@@ -1,0 +1,25 @@
+{
+    "id":  "motorola-edge-40",
+    "shortName":  "Motorola Edge 40",
+    "brand":  "Motorola",
+    "deviceModel":  "XT2303-2",
+    "kind":  "Phone",
+    "portraitWidth":  1080,
+    "portraitHeight":  2400,
+    "landscapeWidth":  2400,
+    "landscapeHeight":  1080,
+    "dpi":  402,
+    "diagonalInches":  6.55,
+    "basedOn":  "Motorola Edge 40",
+    "notes":  "",
+    "verifiedDate":  "2026-08-10",
+    "verifiedStatus":  "approx",
+    "deviceFile":  "Editor/Devices/motorola-edge-40.device",
+    "sources":  [
+                    {
+                        "title":  "Motorola",
+                        "url":  "https://www.motorola.com/",
+                        "quote":  "Product family"
+                    }
+                ]
+}

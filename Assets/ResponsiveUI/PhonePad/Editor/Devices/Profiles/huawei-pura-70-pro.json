@@ -1,0 +1,25 @@
+{
+    "id":  "huawei-pura-70-pro",
+    "shortName":  "Huawei Pura 70 Pro",
+    "brand":  "Huawei",
+    "deviceModel":  "HBN-AL00",
+    "kind":  "Phone",
+    "portraitWidth":  1260,
+    "portraitHeight":  2844,
+    "landscapeWidth":  2844,
+    "landscapeHeight":  1260,
+    "dpi":  460,
+    "diagonalInches":  6.8,
+    "basedOn":  "Huawei Pura 70 Pro",
+    "notes":  "",
+    "verifiedDate":  "2026-08-10",
+    "verifiedStatus":  "matched",
+    "deviceFile":  "Editor/Devices/huawei-pura-70-pro.device",
+    "sources":  [
+                    {
+                        "title":  "Huawei Pura 70 Pro",
+                        "url":  "https://consumer.huawei.com/en/phones/pura70-pro/specs/",
+                        "quote":  "2844 x 1260"
+                    }
+                ]
+}

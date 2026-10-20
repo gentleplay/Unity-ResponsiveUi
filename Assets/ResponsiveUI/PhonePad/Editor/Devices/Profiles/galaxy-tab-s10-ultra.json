@@ -1,0 +1,25 @@
+{
+    "id":  "galaxy-tab-s10-ultra",
+    "shortName":  "Galaxy Tab S10 Ultra",
+    "brand":  "Samsung",
+    "deviceModel":  "SM-X920",
+    "kind":  "Pad",
+    "portraitWidth":  1848,
+    "portraitHeight":  2960,
+    "landscapeWidth":  2960,
+    "landscapeHeight":  1848,
+    "dpi":  240,
+    "diagonalInches":  14.6,
+    "basedOn":  "Samsung Galaxy Tab S10 Ultra",
+    "notes":  "",
+    "verifiedDate":  "2026-08-10",
+    "verifiedStatus":  "matched",
+    "deviceFile":  "Editor/Devices/galaxy-tab-s10-ultra.device",
+    "sources":  [
+                    {
+                        "title":  "Samsung SG Tab S10 Ultra",
+                        "url":  "https://www.samsung.com/sg/tablets/galaxy-tab-s/galaxy-tab-s10-ultra-gray-256gb-sm-x926bzaaxsp/",
+                        "quote":  "2960 x 1848 WQXGA+"
+                    }
+                ]
+}

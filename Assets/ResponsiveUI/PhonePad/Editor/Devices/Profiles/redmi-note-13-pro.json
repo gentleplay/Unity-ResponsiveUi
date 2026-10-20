@@ -1,0 +1,25 @@
+{
+    "id":  "redmi-note-13-pro",
+    "shortName":  "Redmi Note 13 Pro",
+    "brand":  "Xiaomi",
+    "deviceModel":  "2312DRA50G",
+    "kind":  "Phone",
+    "portraitWidth":  1220,
+    "portraitHeight":  2712,
+    "landscapeWidth":  2712,
+    "landscapeHeight":  1220,
+    "dpi":  446,
+    "diagonalInches":  6.67,
+    "basedOn":  "Xiaomi Redmi Note 13 Pro",
+    "notes":  "",
+    "verifiedDate":  "2026-08-10",
+    "verifiedStatus":  "matched",
+    "deviceFile":  "Editor/Devices/redmi-note-13-pro.device",
+    "sources":  [
+                    {
+                        "title":  "Xiaomi Redmi Note 13 Pro",
+                        "url":  "https://www.mi.com/global/product/redmi-note-13-pro/",
+                        "quote":  "2712 x 1220"
+                    }
+                ]
+}

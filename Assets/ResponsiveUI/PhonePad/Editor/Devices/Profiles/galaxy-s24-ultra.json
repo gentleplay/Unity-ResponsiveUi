@@ -1,0 +1,25 @@
+{
+    "id":  "galaxy-s24-ultra",
+    "shortName":  "Galaxy S24 Ultra",
+    "brand":  "Samsung",
+    "deviceModel":  "SM-S928",
+    "kind":  "Phone",
+    "portraitWidth":  1440,
+    "portraitHeight":  3120,
+    "landscapeWidth":  3120,
+    "landscapeHeight":  1440,
+    "dpi":  505,
+    "diagonalInches":  6.8,
+    "basedOn":  "Samsung Galaxy S24 Ultra",
+    "notes":  "",
+    "verifiedDate":  "2026-08-10",
+    "verifiedStatus":  "matched",
+    "deviceFile":  "Editor/Devices/galaxy-s24-ultra.device",
+    "sources":  [
+                    {
+                        "title":  "Samsung S25 vs S24",
+                        "url":  "https://www.samsung.com/ae/support/mobile-devices/s25-series-comparison-with-s24-series/",
+                        "quote":  "S24 Ultra 3120 x 1440, 505 ppi"
+                    }
+                ]
+}

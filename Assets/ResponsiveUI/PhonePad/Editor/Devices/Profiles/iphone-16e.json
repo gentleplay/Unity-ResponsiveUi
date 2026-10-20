@@ -1,0 +1,25 @@
+{
+    "id":  "iphone-16e",
+    "shortName":  "iPhone 16e",
+    "brand":  "Apple",
+    "deviceModel":  "iPhone17,5",
+    "kind":  "Phone",
+    "portraitWidth":  1170,
+    "portraitHeight":  2532,
+    "landscapeWidth":  2532,
+    "landscapeHeight":  1170,
+    "dpi":  460,
+    "diagonalInches":  6.1,
+    "basedOn":  "Apple iPhone 16e",
+    "notes":  "",
+    "verifiedDate":  "2026-08-10",
+    "verifiedStatus":  "matched",
+    "deviceFile":  "Editor/Devices/iphone-16e.device",
+    "sources":  [
+                    {
+                        "title":  "Apple Support - iPhone 16e",
+                        "url":  "https://support.apple.com/en-us/122208",
+                        "quote":  "2532-by-1170 at 460 ppi"
+                    }
+                ]
+}

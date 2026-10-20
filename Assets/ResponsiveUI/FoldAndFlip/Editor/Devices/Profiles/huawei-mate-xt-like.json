@@ -1,0 +1,55 @@
+{
+    "id":  "huawei-mate-xt-like",
+    "shortName":  "Huawei Mate XT-like",
+    "listCategory":  "Fold",
+    "deviceModel":  "gamedev mate-xt-like",
+    "kind":  "FoldablePhone",
+    "preferredHinge":  "Horizontal",
+    "preferSeparating":  false,
+    "basedOn":  "Huawei Mate XT Ultimate Design",
+    "notes":  "Normal = Cover. Expand / Flex = Inner (fully open).",
+    "verifiedDate":  "2026-08-07",
+    "verifiedStatus":  "matched",
+    "sources":  [
+                    {
+                        "title":  "PhoneArena - Mate XT",
+                        "url":  "https://www.phonearena.com/phones/Huawei-Mate-XT-Ultimate-Design_id12421",
+                        "quote":  "Cover 1008x2232; Inner 2232x3184"
+                    }
+                ],
+    "skins":  {
+                  "deviceFile":  "Editor/Devices/Huawei Mate XT-like.device",
+                  "overlays":  [
+                                   {
+                                       "screen":  "Cover",
+                                       "path":  "Editor/Devices/DeviceOverlays/HuaweiMateXTLike_Cover_Overlay.png"
+                                   },
+                                   {
+                                       "screen":  "Inner",
+                                       "path":  "Editor/Devices/DeviceOverlays/HuaweiMateXTLike_Inner_Overlay.png"
+                                   }
+                               ]
+              },
+    "screens":  [
+                    {
+                        "name":  "Cover",
+                        "width":  1008,
+                        "height":  2232,
+                        "portraitWidth":  1008,
+                        "portraitHeight":  2232,
+                        "landscapeWidth":  2232,
+                        "landscapeHeight":  1008,
+                        "coverOrOuter":  true
+                    },
+                    {
+                        "name":  "Inner",
+                        "width":  2232,
+                        "height":  3184,
+                        "portraitWidth":  2232,
+                        "portraitHeight":  3184,
+                        "landscapeWidth":  3184,
+                        "landscapeHeight":  2232,
+                        "coverOrOuter":  false
+                    }
+                ]
+}

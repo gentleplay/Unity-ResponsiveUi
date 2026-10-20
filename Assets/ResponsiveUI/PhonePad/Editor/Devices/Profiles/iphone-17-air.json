@@ -1,0 +1,25 @@
+{
+    "id":  "iphone-17-air",
+    "shortName":  "iPhone Air",
+    "brand":  "Apple",
+    "deviceModel":  "iPhone18,4",
+    "kind":  "Phone",
+    "portraitWidth":  1260,
+    "portraitHeight":  2736,
+    "landscapeWidth":  2736,
+    "landscapeHeight":  1260,
+    "dpi":  460,
+    "diagonalInches":  6.5,
+    "basedOn":  "Apple iPhone Air",
+    "notes":  "Official product name is iPhone Air",
+    "verifiedDate":  "2026-08-10",
+    "verifiedStatus":  "matched",
+    "deviceFile":  "Editor/Devices/iphone-17-air.device",
+    "sources":  [
+                    {
+                        "title":  "Apple - iPhone Air specs",
+                        "url":  "https://www.apple.com/iphone-air/specs/",
+                        "quote":  "2736-by-1260 at 460 ppi; 6.5-inch"
+                    }
+                ]
+}

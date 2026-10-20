@@ -1,0 +1,55 @@
+{
+    "id":  "vivo-x-fold3-pro-like",
+    "shortName":  "Vivo X Fold3 Pro-like",
+    "listCategory":  "Fold",
+    "deviceModel":  "gamedev xfold3-pro-like",
+    "kind":  "FoldablePhone",
+    "preferredHinge":  "Horizontal",
+    "preferSeparating":  false,
+    "basedOn":  "vivo X Fold3 Pro",
+    "notes":  "Normal = Cover. Expand / Flex = Inner.",
+    "verifiedDate":  "2026-08-07",
+    "verifiedStatus":  "matched",
+    "sources":  [
+                    {
+                        "title":  "GSMArena - X Fold3 Pro",
+                        "url":  "https://www.gsmarena.com/vivo_x_fold3_pro-12884.php",
+                        "quote":  "Cover 1172x2748; Inner 2200x2480"
+                    }
+                ],
+    "skins":  {
+                  "deviceFile":  "Editor/Devices/Vivo X Fold3 Pro-like.device",
+                  "overlays":  [
+                                   {
+                                       "screen":  "Cover",
+                                       "path":  "Editor/Devices/DeviceOverlays/VivoXFold3ProLike_Cover_Overlay.png"
+                                   },
+                                   {
+                                       "screen":  "Inner",
+                                       "path":  "Editor/Devices/DeviceOverlays/VivoXFold3ProLike_Inner_Overlay.png"
+                                   }
+                               ]
+              },
+    "screens":  [
+                    {
+                        "name":  "Cover",
+                        "width":  1172,
+                        "height":  2748,
+                        "portraitWidth":  1172,
+                        "portraitHeight":  2748,
+                        "landscapeWidth":  2748,
+                        "landscapeHeight":  1172,
+                        "coverOrOuter":  true
+                    },
+                    {
+                        "name":  "Inner",
+                        "width":  2200,
+                        "height":  2480,
+                        "portraitWidth":  2200,
+                        "portraitHeight":  2480,
+                        "landscapeWidth":  2480,
+                        "landscapeHeight":  2200,
+                        "coverOrOuter":  false
+                    }
+                ]
+}

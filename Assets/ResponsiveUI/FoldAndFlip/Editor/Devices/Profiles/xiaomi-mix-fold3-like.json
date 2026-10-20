@@ -1,0 +1,55 @@
+{
+    "id":  "xiaomi-mix-fold3-like",
+    "shortName":  "Xiaomi Mix Fold3-like",
+    "listCategory":  "Fold",
+    "deviceModel":  "gamedev mix-fold3-like",
+    "kind":  "FoldablePhone",
+    "preferredHinge":  "Horizontal",
+    "preferSeparating":  false,
+    "basedOn":  "Xiaomi MIX Fold 3",
+    "notes":  "Normal = Cover. Expand / Flex = Inner.",
+    "verifiedDate":  "2026-08-07",
+    "verifiedStatus":  "matched",
+    "sources":  [
+                    {
+                        "title":  "GSMArena - Mix Fold 3",
+                        "url":  "https://www.gsmarena.com/xiaomi_mix_fold_3-12468.php",
+                        "quote":  "Cover 1080x2520; Inner 1916x2160"
+                    }
+                ],
+    "skins":  {
+                  "deviceFile":  "Editor/Devices/Xiaomi Mix Fold3-like.device",
+                  "overlays":  [
+                                   {
+                                       "screen":  "Cover",
+                                       "path":  "Editor/Devices/DeviceOverlays/XiaomiMixFold3Like_Cover_Overlay.png"
+                                   },
+                                   {
+                                       "screen":  "Inner",
+                                       "path":  "Editor/Devices/DeviceOverlays/XiaomiMixFold3Like_Inner_Overlay.png"
+                                   }
+                               ]
+              },
+    "screens":  [
+                    {
+                        "name":  "Cover",
+                        "width":  1080,
+                        "height":  2520,
+                        "portraitWidth":  1080,
+                        "portraitHeight":  2520,
+                        "landscapeWidth":  2520,
+                        "landscapeHeight":  1080,
+                        "coverOrOuter":  true
+                    },
+                    {
+                        "name":  "Inner",
+                        "width":  1916,
+                        "height":  2160,
+                        "portraitWidth":  1916,
+                        "portraitHeight":  2160,
+                        "landscapeWidth":  2160,
+                        "landscapeHeight":  1916,
+                        "coverOrOuter":  false
+                    }
+                ]
+}

@@ -1,0 +1,25 @@
+{
+    "id":  "pixel-9-pro-xl",
+    "shortName":  "Pixel 9 Pro XL",
+    "brand":  "Google",
+    "deviceModel":  "Pixel 9 Pro XL",
+    "kind":  "Phone",
+    "portraitWidth":  1344,
+    "portraitHeight":  2992,
+    "landscapeWidth":  2992,
+    "landscapeHeight":  1344,
+    "dpi":  486,
+    "diagonalInches":  6.8,
+    "basedOn":  "Google Pixel 9 Pro XL",
+    "notes":  "",
+    "verifiedDate":  "2026-08-10",
+    "verifiedStatus":  "matched",
+    "deviceFile":  "Editor/Devices/pixel-9-pro-xl.device",
+    "sources":  [
+                    {
+                        "title":  "Google Store - Pixel 9 Pro",
+                        "url":  "https://store.google.com/product/pixel_9_pro_specs",
+                        "quote":  "1344 x 2992 at 486 PPI"
+                    }
+                ]
+}

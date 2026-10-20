@@ -1,0 +1,25 @@
+{
+    "id":  "ipad-10",
+    "shortName":  "iPad 10th gen",
+    "brand":  "Apple",
+    "deviceModel":  "iPad13,18",
+    "kind":  "Pad",
+    "portraitWidth":  1640,
+    "portraitHeight":  2360,
+    "landscapeWidth":  2360,
+    "landscapeHeight":  1640,
+    "dpi":  264,
+    "diagonalInches":  10.9,
+    "basedOn":  "Apple iPad (10th generation)",
+    "notes":  "",
+    "verifiedDate":  "2026-08-10",
+    "verifiedStatus":  "matched",
+    "deviceFile":  "Editor/Devices/ipad-10.device",
+    "sources":  [
+                    {
+                        "title":  "Apple Support - iPad",
+                        "url":  "https://support.apple.com/en-us/111345",
+                        "quote":  "2360-by-1640 at 264 ppi"
+                    }
+                ]
+}

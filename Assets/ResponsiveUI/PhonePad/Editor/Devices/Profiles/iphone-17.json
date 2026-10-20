@@ -1,0 +1,25 @@
+{
+    "id":  "iphone-17",
+    "shortName":  "iPhone 17",
+    "brand":  "Apple",
+    "deviceModel":  "iPhone18,1",
+    "kind":  "Phone",
+    "portraitWidth":  1206,
+    "portraitHeight":  2622,
+    "landscapeWidth":  2622,
+    "landscapeHeight":  1206,
+    "dpi":  460,
+    "diagonalInches":  6.3,
+    "basedOn":  "Apple iPhone 17",
+    "notes":  "",
+    "verifiedDate":  "2026-08-10",
+    "verifiedStatus":  "matched",
+    "deviceFile":  "Editor/Devices/iphone-17.device",
+    "sources":  [
+                    {
+                        "title":  "Apple - iPhone 17 specs",
+                        "url":  "https://www.apple.com/iphone-17/specs/",
+                        "quote":  "2622-by-1206 at 460 ppi; 6.3-inch"
+                    }
+                ]
+}

@@ -1,0 +1,25 @@
+{
+    "id":  "galaxy-a35",
+    "shortName":  "Galaxy A35",
+    "brand":  "Samsung",
+    "deviceModel":  "SM-A356",
+    "kind":  "Phone",
+    "portraitWidth":  1080,
+    "portraitHeight":  2340,
+    "landscapeWidth":  2340,
+    "landscapeHeight":  1080,
+    "dpi":  390,
+    "diagonalInches":  6.6,
+    "basedOn":  "Samsung Galaxy A35 5G",
+    "notes":  "",
+    "verifiedDate":  "2026-08-10",
+    "verifiedStatus":  "matched",
+    "deviceFile":  "Editor/Devices/galaxy-a35.device",
+    "sources":  [
+                    {
+                        "title":  "Samsung UK S25 vs A",
+                        "url":  "https://www.samsung.com/uk/support/mobile-devices/what-are-the-differences-between-the-galaxy-s25-series-and-a-series/",
+                        "quote":  "A35 FHD+ 1080 x 2340 6.6-inch"
+                    }
+                ]
+}

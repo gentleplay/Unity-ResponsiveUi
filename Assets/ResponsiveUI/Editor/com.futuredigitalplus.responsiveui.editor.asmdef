@@ -1,0 +1,23 @@
+{
+    "name": "com.futuredigitalplus.responsiveui.editor",
+    "rootNamespace": "FDPlus.ResponsiveUI.Editor",
+    "references": [
+        "com.futuredigitalplus.responsiveui",
+        "UnityEngine.UI",
+        "com.futuredigitalplus.responsiveui.shared.editor",
+        "com.futuredigitalplus.foldandflip",
+        "com.futuredigitalplus.foldandflip.editor",
+        "com.futuredigitalplus.phonepad.simulator.editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

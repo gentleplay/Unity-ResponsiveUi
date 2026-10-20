@@ -1,0 +1,22 @@
+{
+    "name": "com.futuredigitalplus.iphoneduo.editor",
+    "rootNamespace": "FDPlus.IphoneDuo.Editor",
+    "references": [
+        "com.futuredigitalplus.foldandflip",
+        "com.futuredigitalplus.foldandflip.editor",
+        "com.futuredigitalplus.iphoneduo",
+        "com.futuredigitalplus.responsiveui.shared.editor",
+        "UnityEditor.DeviceSimulatorModule"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

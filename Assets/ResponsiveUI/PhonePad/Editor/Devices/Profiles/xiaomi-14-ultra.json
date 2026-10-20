@@ -1,0 +1,25 @@
+{
+    "id":  "xiaomi-14-ultra",
+    "shortName":  "Xiaomi 14 Ultra",
+    "brand":  "Xiaomi",
+    "deviceModel":  "24030PN60G",
+    "kind":  "Phone",
+    "portraitWidth":  1440,
+    "portraitHeight":  3200,
+    "landscapeWidth":  3200,
+    "landscapeHeight":  1440,
+    "dpi":  522,
+    "diagonalInches":  6.73,
+    "basedOn":  "Xiaomi 14 Ultra",
+    "notes":  "",
+    "verifiedDate":  "2026-08-10",
+    "verifiedStatus":  "matched",
+    "deviceFile":  "Editor/Devices/xiaomi-14-ultra.device",
+    "sources":  [
+                    {
+                        "title":  "Xiaomi 14 Ultra",
+                        "url":  "https://www.mi.com/global/product/xiaomi-14-ultra/",
+                        "quote":  "3200 x 1440"
+                    }
+                ]
+}

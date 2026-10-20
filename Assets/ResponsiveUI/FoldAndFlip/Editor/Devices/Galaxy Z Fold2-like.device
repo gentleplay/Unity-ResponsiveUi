@@ -1,0 +1,166 @@
+{
+    "friendlyName": "\u0001Fold / Galaxy Z Fold2-like",
+    "version":  1,
+    "screens":  [
+                    {
+                        "width":  816,
+                        "orientations":  [
+                                             {
+                                                 "safeArea":  {
+                                                                  "y":  0,
+                                                                  "serializedVersion":  "2",
+                                                                  "width":  816,
+                                                                  "height":  2140,
+                                                                  "x":  0
+                                                              },
+                                                 "orientation":  1,
+                                                 "cutouts":  [
+
+                                                             ]
+                                             },
+                                             {
+                                                 "safeArea":  {
+                                                                  "y":  120,
+                                                                  "serializedVersion":  "2",
+                                                                  "width":  816,
+                                                                  "height":  2140,
+                                                                  "x":  0
+                                                              },
+                                                 "orientation":  2,
+                                                 "cutouts":  [
+
+                                                             ]
+                                             },
+                                             {
+                                                 "safeArea":  {
+                                                                  "y":  0,
+                                                                  "serializedVersion":  "2",
+                                                                  "width":  2140,
+                                                                  "height":  816,
+                                                                  "x":  120
+                                                              },
+                                                 "orientation":  3,
+                                                 "cutouts":  [
+
+                                                             ]
+                                             },
+                                             {
+                                                 "safeArea":  {
+                                                                  "y":  0,
+                                                                  "serializedVersion":  "2",
+                                                                  "width":  2260,
+                                                                  "height":  816,
+                                                                  "x":  0
+                                                              },
+                                                 "orientation":  4,
+                                                 "cutouts":  [
+
+                                                             ]
+                                             }
+                                         ],
+                        "presentation":  {
+                                             "overlayPath":  "DeviceOverlays/GalaxyZFold2Like_Cover_Overlay.png",
+                                             "borderSize":  {
+                                                                "y":  48,
+                                                                "w":  48,
+                                                                "z":  48,
+                                                                "x":  48
+                                                            },
+                                             "name":  "Cover",
+                                             "cornerRadius":  48
+                                         },
+                        "navigationBarHeight":  120,
+                        "dpi":  386,
+                        "height":  2260
+                    },
+                    {
+                        "width":  1768,
+                        "orientations":  [
+                                             {
+                                                 "safeArea":  {
+                                                                  "y":  0,
+                                                                  "serializedVersion":  "2",
+                                                                  "width":  1768,
+                                                                  "height":  2088,
+                                                                  "x":  0
+                                                              },
+                                                 "orientation":  1,
+                                                 "cutouts":  [
+
+                                                             ]
+                                             },
+                                             {
+                                                 "safeArea":  {
+                                                                  "y":  120,
+                                                                  "serializedVersion":  "2",
+                                                                  "width":  1768,
+                                                                  "height":  2088,
+                                                                  "x":  0
+                                                              },
+                                                 "orientation":  2,
+                                                 "cutouts":  [
+
+                                                             ]
+                                             },
+                                             {
+                                                 "safeArea":  {
+                                                                  "y":  0,
+                                                                  "serializedVersion":  "2",
+                                                                  "width":  2088,
+                                                                  "height":  1768,
+                                                                  "x":  120
+                                                              },
+                                                 "orientation":  3,
+                                                 "cutouts":  [
+
+                                                             ]
+                                             },
+                                             {
+                                                 "safeArea":  {
+                                                                  "y":  0,
+                                                                  "serializedVersion":  "2",
+                                                                  "width":  2208,
+                                                                  "height":  1768,
+                                                                  "x":  0
+                                                              },
+                                                 "orientation":  4,
+                                                 "cutouts":  [
+
+                                                             ]
+                                             }
+                                         ],
+                        "presentation":  {
+                                             "overlayPath":  "DeviceOverlays/GalaxyZFold2Like_Inner_Overlay.png",
+                                             "borderSize":  {
+                                                                "y":  72,
+                                                                "w":  72,
+                                                                "z":  72,
+                                                                "x":  72
+                                                            },
+                                             "name":  "Inner",
+                                             "cornerRadius":  72
+                                         },
+                        "navigationBarHeight":  120,
+                        "dpi":  373,
+                        "height":  2208
+                    }
+                ],
+    "systemInfo":  {
+                       "supportsAccelerometer":  true,
+                       "processorType":  "ARM64 FP ASIMD AES",
+                       "deviceModel":  "gamedev fold2-like",
+                       "processorCount":  8,
+                       "operatingSystem":  "Android OS 14 / API-34",
+                       "graphicsDependentData":  [
+
+                                                 ],
+                       "supportsVibration":  true,
+                       "supportsGyroscope":  true,
+                       "processorFrequency":  2800,
+                       "systemMemorySize":  12288,
+                       "supportsAudio":  true,
+                       "supportsLocationService":  true,
+                       "deviceType":  1,
+                       "operatingSystemFamily":  0
+                   }
+}

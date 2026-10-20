@@ -1,0 +1,25 @@
+{
+    "id":  "motorola-edge-60",
+    "shortName":  "motorola edge 60",
+    "brand":  "Motorola",
+    "deviceModel":  "XT2503",
+    "kind":  "Phone",
+    "portraitWidth":  1220,
+    "portraitHeight":  2712,
+    "landscapeWidth":  2712,
+    "landscapeHeight":  1220,
+    "dpi":  446,
+    "diagonalInches":  6.7,
+    "basedOn":  "Motorola edge 60",
+    "notes":  "Confirm regional SKU vs Fusion panel",
+    "verifiedDate":  "2026-08-10",
+    "verifiedStatus":  "approx",
+    "deviceFile":  "Editor/Devices/motorola-edge-60.device",
+    "sources":  [
+                    {
+                        "title":  "Motorola edge 60 family",
+                        "url":  "https://www.motorola.com/",
+                        "quote":  "edge 60 family; 2712 x 1220 class"
+                    }
+                ]
+}

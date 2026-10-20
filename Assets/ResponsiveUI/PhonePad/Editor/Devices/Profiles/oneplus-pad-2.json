@@ -1,0 +1,25 @@
+{
+    "id":  "oneplus-pad-2",
+    "shortName":  "OnePlus Pad 2",
+    "brand":  "OnePlus",
+    "deviceModel":  "OPD2403",
+    "kind":  "Pad",
+    "portraitWidth":  2120,
+    "portraitHeight":  3000,
+    "landscapeWidth":  3000,
+    "landscapeHeight":  2120,
+    "dpi":  294,
+    "diagonalInches":  12.1,
+    "basedOn":  "OnePlus Pad 2",
+    "notes":  "",
+    "verifiedDate":  "2026-08-10",
+    "verifiedStatus":  "approx",
+    "deviceFile":  "Editor/Devices/oneplus-pad-2.device",
+    "sources":  [
+                    {
+                        "title":  "OnePlus Pad 2",
+                        "url":  "https://www.oneplus.com/pad-2",
+                        "quote":  "Product page"
+                    }
+                ]
+}

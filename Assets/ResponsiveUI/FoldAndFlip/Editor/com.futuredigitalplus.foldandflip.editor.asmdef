@@ -1,0 +1,21 @@
+{
+    "name": "com.futuredigitalplus.foldandflip.editor",
+    "rootNamespace": "FDPlus.Foldable.Editor",
+    "references": [
+        "com.futuredigitalplus.foldandflip",
+        "com.futuredigitalplus.responsiveui.shared.editor",
+        "UnityEditor.DeviceSimulatorModule",
+        "UnityEngine.UI"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

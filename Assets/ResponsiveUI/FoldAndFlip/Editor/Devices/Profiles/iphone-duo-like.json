@@ -1,0 +1,61 @@
+{
+    "id":  "iphone-duo-like",
+    "shortName":  "iPhone Duo-like",
+    "listCategory":  "Fold",
+    "deviceModel":  "iPhone19,4",
+    "kind":  "FoldablePhone",
+    "preferredHinge":  "Horizontal",
+    "preferSeparating":  false,
+    "innerLandscapeNative":  true,
+    "basedOn":  "Apple iPhone Duo",
+    "notes":  "Apple poses: Landscape/Portrait opened = inner flat -> Pad. Closed = cover -> iPhone Duo Cover. Standing = cover propped (partial hinge) -> iPhone Duo Cover, not Seated. Seated = inner partly open -> iPhone Duo Seated (Portrait = tall 2007x2853 laptop hold, horizontal crease, gameplay top / controls bottom; Landscape = wide 2853x2007 book hold, vertical crease). Seated unlocks the axis the Player lock leaves out, so both Seated slots are reachable. Disabled Seated falls back by screen shape to Pad, then Phone. Player detection: UIHingeInteraction (iOS 27.1, IphoneDuoHinge in the iPhone Duo module).",
+    "verifiedDate":  "2026-10-12",
+    "verifiedStatus":  "matched",
+    "sources":  [
+                    {
+                        "title":  "Xcode Simulator - iPhone Duo device type (iPhone Duo.simdevicetype capabilities.plist)",
+                        "url":  "https://developer.apple.com/documentation/xcode/running-your-app-in-simulator-or-on-a-device",
+                        "quote":  "displays: primary 1398x2034 scale 3 at 460 ppi (466x678 pt); primary-1 2007x2853 scale 3 at 460 ppi (669x951 pt, nativeRotation 270)"
+                    },
+                    {
+                        "title":  "Apple Developer - UIHingeInteraction",
+                        "url":  "https://developer.apple.com/documentation/uikit/uihingeinteraction",
+                        "quote":  "Hinge status closed / partiallyOpen / fullyOpen plus angle (iOS 27.1+)"
+                    }
+                ],
+    "skins":  {
+                  "deviceFile":  "Editor/Devices/iPhone Duo-like.device",
+                  "overlays":  [
+                                   {
+                                       "screen":  "Cover",
+                                       "path":  "Editor/Devices/DeviceOverlays/iPhoneDuoLike_Cover_Overlay.png"
+                                   },
+                                   {
+                                       "screen":  "Inner",
+                                       "path":  "Editor/Devices/DeviceOverlays/iPhoneDuoLike_Inner_Overlay.png"
+                                   }
+                               ]
+              },
+    "screens":  [
+                    {
+                        "name":  "Cover",
+                        "width":  1398,
+                        "height":  2034,
+                        "portraitWidth":  1398,
+                        "portraitHeight":  2034,
+                        "landscapeWidth":  2034,
+                        "landscapeHeight":  1398,
+                        "coverOrOuter":  true
+                    },
+                    {
+                        "name":  "Inner",
+                        "width":  2007,
+                        "height":  2853,
+                        "portraitWidth":  2007,
+                        "portraitHeight":  2853,
+                        "landscapeWidth":  2853,
+                        "landscapeHeight":  2007,
+                        "coverOrOuter":  false
+                    }
+                ]
+}

@@ -1,0 +1,25 @@
+{
+    "id":  "oneplus-13r",
+    "shortName":  "OnePlus 13R",
+    "brand":  "OnePlus",
+    "deviceModel":  "CPH2645",
+    "kind":  "Phone",
+    "portraitWidth":  1264,
+    "portraitHeight":  2780,
+    "landscapeWidth":  2780,
+    "landscapeHeight":  1264,
+    "dpi":  450,
+    "diagonalInches":  6.78,
+    "basedOn":  "OnePlus 13R",
+    "notes":  "",
+    "verifiedDate":  "2026-08-10",
+    "verifiedStatus":  "matched",
+    "deviceFile":  "Editor/Devices/oneplus-13r.device",
+    "sources":  [
+                    {
+                        "title":  "OnePlus US 13R specs",
+                        "url":  "https://www.oneplus.com/us/13r/specs",
+                        "quote":  "2780*1264 pixels, 450 ppi; 6.78-inch"
+                    }
+                ]
+}

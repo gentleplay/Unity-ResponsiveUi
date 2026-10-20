@@ -1,0 +1,25 @@
+{
+    "id":  "ipad-air-13",
+    "shortName":  "iPad Air 13",
+    "brand":  "Apple",
+    "deviceModel":  "iPad14,10",
+    "kind":  "Pad",
+    "portraitWidth":  2064,
+    "portraitHeight":  2752,
+    "landscapeWidth":  2752,
+    "landscapeHeight":  2064,
+    "dpi":  264,
+    "diagonalInches":  13,
+    "basedOn":  "Apple iPad Air 13-inch (M2)",
+    "notes":  "",
+    "verifiedDate":  "2026-08-10",
+    "verifiedStatus":  "matched",
+    "deviceFile":  "Editor/Devices/ipad-air-13.device",
+    "sources":  [
+                    {
+                        "title":  "Apple - iPad Air",
+                        "url":  "https://www.apple.com/ipad-air/specs/",
+                        "quote":  "2752-by-2064"
+                    }
+                ]
+}

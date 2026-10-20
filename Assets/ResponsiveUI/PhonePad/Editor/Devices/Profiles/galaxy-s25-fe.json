@@ -1,0 +1,25 @@
+{
+    "id":  "galaxy-s25-fe",
+    "shortName":  "Galaxy S25 FE",
+    "brand":  "Samsung",
+    "deviceModel":  "SM-S731",
+    "kind":  "Phone",
+    "portraitWidth":  1080,
+    "portraitHeight":  2340,
+    "landscapeWidth":  2340,
+    "landscapeHeight":  1080,
+    "dpi":  385,
+    "diagonalInches":  6.7,
+    "basedOn":  "Samsung Galaxy S25 FE",
+    "notes":  "",
+    "verifiedDate":  "2026-08-10",
+    "verifiedStatus":  "matched",
+    "deviceFile":  "Editor/Devices/galaxy-s25-fe.device",
+    "sources":  [
+                    {
+                        "title":  "GSMArena Galaxy S25 FE",
+                        "url":  "https://www.gsmarena.com/samsung_galaxy_s25_fe-14042.php",
+                        "quote":  "1080 x 2340 pixels (~385 ppi); 6.7-inch"
+                    }
+                ]
+}

@@ -1,0 +1,25 @@
+{
+    "id":  "iphone-17-pro",
+    "shortName":  "iPhone 17 Pro",
+    "brand":  "Apple",
+    "deviceModel":  "iPhone18,2",
+    "kind":  "Phone",
+    "portraitWidth":  1206,
+    "portraitHeight":  2622,
+    "landscapeWidth":  2622,
+    "landscapeHeight":  1206,
+    "dpi":  460,
+    "diagonalInches":  6.3,
+    "basedOn":  "Apple iPhone 17 Pro",
+    "notes":  "",
+    "verifiedDate":  "2026-08-10",
+    "verifiedStatus":  "matched",
+    "deviceFile":  "Editor/Devices/iphone-17-pro.device",
+    "sources":  [
+                    {
+                        "title":  "Apple - iPhone 17 Pro specs",
+                        "url":  "https://www.apple.com/iphone-17-pro/specs/",
+                        "quote":  "2622-by-1206 at 460 ppi"
+                    }
+                ]
+}

@@ -1,0 +1,25 @@
+{
+    "id":  "huawei-mate-70-pro",
+    "shortName":  "Mate 70 Pro",
+    "brand":  "Huawei",
+    "deviceModel":  "ALN-AL00",
+    "kind":  "Phone",
+    "portraitWidth":  1316,
+    "portraitHeight":  2832,
+    "landscapeWidth":  2832,
+    "landscapeHeight":  1316,
+    "dpi":  454,
+    "diagonalInches":  6.9,
+    "basedOn":  "Huawei Mate 70 Pro",
+    "notes":  "",
+    "verifiedDate":  "2026-08-10",
+    "verifiedStatus":  "matched",
+    "deviceFile":  "Editor/Devices/huawei-mate-70-pro.device",
+    "sources":  [
+                    {
+                        "title":  "Huawei Mate 70 Pro specs",
+                        "url":  "https://consumer.huawei.com/cn/phones/mate70-pro/specs/",
+                        "quote":  "2832 x 1316; 454 PPI"
+                    }
+                ]
+}

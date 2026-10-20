@@ -1,0 +1,55 @@
+{
+    "id":  "oppo-find-n5-like",
+    "shortName":  "Oppo Find N5-like",
+    "listCategory":  "Fold",
+    "deviceModel":  "gamedev find-n5-like",
+    "kind":  "FoldablePhone",
+    "preferredHinge":  "Horizontal",
+    "preferSeparating":  false,
+    "basedOn":  "OPPO Find N5",
+    "notes":  "Normal = Cover. Expand / Flex = Inner.",
+    "verifiedDate":  "2026-08-07",
+    "verifiedStatus":  "matched",
+    "sources":  [
+                    {
+                        "title":  "OPPO Find N5 specs",
+                        "url":  "https://www.oppo.com/en/smartphones/series-find-n/find-n5/specs/",
+                        "quote":  "Cover 1140x2616; Inner 2248x2480"
+                    }
+                ],
+    "skins":  {
+                  "deviceFile":  "Editor/Devices/Oppo Find N5-like.device",
+                  "overlays":  [
+                                   {
+                                       "screen":  "Cover",
+                                       "path":  "Editor/Devices/DeviceOverlays/OppoFindN5Like_Cover_Overlay.png"
+                                   },
+                                   {
+                                       "screen":  "Inner",
+                                       "path":  "Editor/Devices/DeviceOverlays/OppoFindN5Like_Inner_Overlay.png"
+                                   }
+                               ]
+              },
+    "screens":  [
+                    {
+                        "name":  "Cover",
+                        "width":  1140,
+                        "height":  2616,
+                        "portraitWidth":  1140,
+                        "portraitHeight":  2616,
+                        "landscapeWidth":  2616,
+                        "landscapeHeight":  1140,
+                        "coverOrOuter":  true
+                    },
+                    {
+                        "name":  "Inner",
+                        "width":  2248,
+                        "height":  2480,
+                        "portraitWidth":  2248,
+                        "portraitHeight":  2480,
+                        "landscapeWidth":  2480,
+                        "landscapeHeight":  2248,
+                        "coverOrOuter":  false
+                    }
+                ]
+}

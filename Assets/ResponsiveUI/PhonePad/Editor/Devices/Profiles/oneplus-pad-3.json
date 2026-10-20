@@ -1,0 +1,25 @@
+{
+    "id":  "oneplus-pad-3",
+    "shortName":  "OnePlus Pad 3",
+    "brand":  "OnePlus",
+    "deviceModel":  "OPD2415",
+    "kind":  "Pad",
+    "portraitWidth":  2400,
+    "portraitHeight":  3392,
+    "landscapeWidth":  3392,
+    "landscapeHeight":  2400,
+    "dpi":  315,
+    "diagonalInches":  13.2,
+    "basedOn":  "OnePlus Pad 3",
+    "notes":  "",
+    "verifiedDate":  "2026-08-10",
+    "verifiedStatus":  "matched",
+    "deviceFile":  "Editor/Devices/oneplus-pad-3.device",
+    "sources":  [
+                    {
+                        "title":  "GSMArena OnePlus Pad 3",
+                        "url":  "https://www.gsmarena.com/oneplus_pad_3_(global)-13881.php",
+                        "quote":  "2400 x 3392 pixels (~315 ppi); 13.2-inch"
+                    }
+                ]
+}

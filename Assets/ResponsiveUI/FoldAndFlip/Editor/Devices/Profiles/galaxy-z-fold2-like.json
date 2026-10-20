@@ -1,0 +1,55 @@
+{
+    "id":  "galaxy-z-fold2-like",
+    "shortName":  "Galaxy Z Fold2-like",
+    "listCategory":  "Fold",
+    "deviceModel":  "gamedev fold2-like",
+    "kind":  "FoldablePhone",
+    "preferredHinge":  "Horizontal",
+    "preferSeparating":  false,
+    "basedOn":  "Samsung Galaxy Z Fold2",
+    "notes":  "Normal = Cover. Expand / Flex = Inner.",
+    "verifiedDate":  "2026-09-09",
+    "verifiedStatus":  "matched",
+    "sources":  [
+                    {
+                        "title":  "GSMArena - Galaxy Z Fold2 5G",
+                        "url":  "https://www.gsmarena.com/samsung_galaxy_z_fold2_5g-10342.php",
+                        "quote":  "Cover 816x2260; Inner 1768x2208"
+                    }
+                ],
+    "skins":  {
+                  "deviceFile":  "Editor/Devices/Galaxy Z Fold2-like.device",
+                  "overlays":  [
+                                   {
+                                       "screen":  "Cover",
+                                       "path":  "Editor/Devices/DeviceOverlays/GalaxyZFold2Like_Cover_Overlay.png"
+                                   },
+                                   {
+                                       "screen":  "Inner",
+                                       "path":  "Editor/Devices/DeviceOverlays/GalaxyZFold2Like_Inner_Overlay.png"
+                                   }
+                               ]
+              },
+    "screens":  [
+                    {
+                        "name":  "Cover",
+                        "width":  816,
+                        "height":  2260,
+                        "portraitWidth":  816,
+                        "portraitHeight":  2260,
+                        "landscapeWidth":  2260,
+                        "landscapeHeight":  816,
+                        "coverOrOuter":  true
+                    },
+                    {
+                        "name":  "Inner",
+                        "width":  1768,
+                        "height":  2208,
+                        "portraitWidth":  1768,
+                        "portraitHeight":  2208,
+                        "landscapeWidth":  2208,
+                        "landscapeHeight":  1768,
+                        "coverOrOuter":  false
+                    }
+                ]
+}

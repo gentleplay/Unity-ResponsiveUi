@@ -1,0 +1,55 @@
+{
+    "id":  "galaxy-z-fold8-like",
+    "shortName":  "Galaxy Z Fold8-like",
+    "listCategory":  "Fold",
+    "deviceModel":  "gamedev fold8-like",
+    "kind":  "FoldablePhone",
+    "preferredHinge":  "Horizontal",
+    "preferSeparating":  false,
+    "basedOn":  "Samsung Galaxy Z Fold8",
+    "notes":  "Normal = Cover. Expand / Flex = Inner. Cover 1248x1972 is uniquely wide (~10:16, landscape aspect ~1.58) vs other Fold covers (~2.3). Design Canvas Simulator label is Fold Cover / Galaxy Z Fold8-like (sort-to-top prefix); IsToolkitListName still matches ShortName so Cover is not mis-detected as Pad.",
+    "verifiedDate":  "2026-08-07",
+    "verifiedStatus":  "matched",
+    "sources":  [
+                    {
+                        "title":  "Wikipedia - Galaxy Z Fold 8",
+                        "url":  "https://en.wikipedia.org/wiki/Samsung_Galaxy_Z_Fold_8",
+                        "quote":  "Cover 1248x1972; Inner 1848x2448"
+                    }
+                ],
+    "skins":  {
+                  "deviceFile":  "Editor/Devices/Galaxy Z Fold8-like.device",
+                  "overlays":  [
+                                   {
+                                       "screen":  "Cover",
+                                       "path":  "Editor/Devices/DeviceOverlays/GalaxyZFold8Like_Cover_Overlay.png"
+                                   },
+                                   {
+                                       "screen":  "Inner",
+                                       "path":  "Editor/Devices/DeviceOverlays/GalaxyZFold8Like_Inner_Overlay.png"
+                                   }
+                               ]
+              },
+    "screens":  [
+                    {
+                        "name":  "Cover",
+                        "width":  1248,
+                        "height":  1972,
+                        "portraitWidth":  1248,
+                        "portraitHeight":  1972,
+                        "landscapeWidth":  1972,
+                        "landscapeHeight":  1248,
+                        "coverOrOuter":  true
+                    },
+                    {
+                        "name":  "Inner",
+                        "width":  1848,
+                        "height":  2448,
+                        "portraitWidth":  1848,
+                        "portraitHeight":  2448,
+                        "landscapeWidth":  2448,
+                        "landscapeHeight":  1848,
+                        "coverOrOuter":  false
+                    }
+                ]
+}

@@ -1,0 +1,166 @@
+{
+    "friendlyName": "\u0001iPhone Duo / iPhone Duo-like",
+    "version":  1,
+    "screens":  [
+                    {
+                        "width":  1398,
+                        "orientations":  [
+                                             {
+                                                 "safeArea":  {
+                                                                  "y":  102,
+                                                                  "serializedVersion":  "2",
+                                                                  "width":  1398,
+                                                                  "height":  1755,
+                                                                  "x":  0
+                                                              },
+                                                 "orientation":  1,
+                                                 "cutouts":  [
+
+                                                             ]
+                                             },
+                                             {
+                                                 "safeArea":  {
+                                                                  "y":  177,
+                                                                  "serializedVersion":  "2",
+                                                                  "width":  1398,
+                                                                  "height":  1755,
+                                                                  "x":  0
+                                                              },
+                                                 "orientation":  2,
+                                                 "cutouts":  [
+
+                                                             ]
+                                             },
+                                             {
+                                                 "safeArea":  {
+                                                                  "y":  63,
+                                                                  "serializedVersion":  "2",
+                                                                  "width":  1680,
+                                                                  "height":  1335,
+                                                                  "x":  177
+                                                              },
+                                                 "orientation":  3,
+                                                 "cutouts":  [
+
+                                                             ]
+                                             },
+                                             {
+                                                 "safeArea":  {
+                                                                  "y":  63,
+                                                                  "serializedVersion":  "2",
+                                                                  "width":  1680,
+                                                                  "height":  1335,
+                                                                  "x":  177
+                                                              },
+                                                 "orientation":  4,
+                                                 "cutouts":  [
+
+                                                             ]
+                                             }
+                                         ],
+                        "presentation":  {
+                                             "overlayPath":  "DeviceOverlays/iPhoneDuoLike_Cover_Overlay.png",
+                                             "borderSize":  {
+                                                                "y":  52,
+                                                                "w":  52,
+                                                                "z":  52,
+                                                                "x":  52
+                                                            },
+                                             "name":  "Cover",
+                                             "cornerRadius":  150
+                                         },
+                        "navigationBarHeight":  0,
+                        "dpi":  460,
+                        "height":  2034
+                    },
+                    {
+                        "width":  2007,
+                        "orientations":  [
+                                             {
+                                                 "safeArea":  {
+                                                                  "y":  102,
+                                                                  "serializedVersion":  "2",
+                                                                  "width":  2007,
+                                                                  "height":  2688,
+                                                                  "x":  0
+                                                              },
+                                                 "orientation":  1,
+                                                 "cutouts":  [
+
+                                                             ]
+                                             },
+                                             {
+                                                 "safeArea":  {
+                                                                  "y":  63,
+                                                                  "serializedVersion":  "2",
+                                                                  "width":  2007,
+                                                                  "height":  2688,
+                                                                  "x":  0
+                                                              },
+                                                 "orientation":  2,
+                                                 "cutouts":  [
+
+                                                             ]
+                                             },
+                                             {
+                                                 "safeArea":  {
+                                                                  "y":  63,
+                                                                  "serializedVersion":  "2",
+                                                                  "width":  2727,
+                                                                  "height":  1944,
+                                                                  "x":  63
+                                                              },
+                                                 "orientation":  3,
+                                                 "cutouts":  [
+
+                                                             ]
+                                             },
+                                             {
+                                                 "safeArea":  {
+                                                                  "y":  63,
+                                                                  "serializedVersion":  "2",
+                                                                  "width":  2727,
+                                                                  "height":  1944,
+                                                                  "x":  63
+                                                              },
+                                                 "orientation":  4,
+                                                 "cutouts":  [
+
+                                                             ]
+                                             }
+                                         ],
+                        "presentation":  {
+                                             "overlayPath":  "DeviceOverlays/iPhoneDuoLike_Inner_Overlay.png",
+                                             "borderSize":  {
+                                                                "y":  64,
+                                                                "w":  64,
+                                                                "z":  64,
+                                                                "x":  64
+                                                            },
+                                             "name":  "Inner",
+                                             "cornerRadius":  120
+                                         },
+                        "navigationBarHeight":  0,
+                        "dpi":  460,
+                        "height":  2853
+                    }
+                ],
+    "systemInfo":  {
+                       "supportsAccelerometer":  true,
+                       "processorType":  "ARM64 FP ASIMD AES",
+                       "deviceModel":  "iPhone19,4",
+                       "processorCount":  8,
+                       "operatingSystem":  "iOS 27.1",
+                       "graphicsDependentData":  [
+
+                                                 ],
+                       "supportsVibration":  true,
+                       "supportsGyroscope":  true,
+                       "processorFrequency":  2800,
+                       "systemMemorySize":  12288,
+                       "supportsAudio":  true,
+                       "supportsLocationService":  true,
+                       "deviceType":  1,
+                       "operatingSystemFamily":  0
+                   }
+}

@@ -1,0 +1,25 @@
+{
+    "id":  "redmi-pad-pro",
+    "shortName":  "Redmi Pad Pro",
+    "brand":  "Xiaomi",
+    "deviceModel":  "24074RPD2G",
+    "kind":  "Pad",
+    "portraitWidth":  1600,
+    "portraitHeight":  2560,
+    "landscapeWidth":  2560,
+    "landscapeHeight":  1600,
+    "dpi":  256,
+    "diagonalInches":  12.1,
+    "basedOn":  "Xiaomi Redmi Pad Pro",
+    "notes":  "",
+    "verifiedDate":  "2026-08-10",
+    "verifiedStatus":  "matched",
+    "deviceFile":  "Editor/Devices/redmi-pad-pro.device",
+    "sources":  [
+                    {
+                        "title":  "Xiaomi Redmi Pad Pro",
+                        "url":  "https://www.mi.com/global/product/redmi-pad-pro/",
+                        "quote":  "2560 x 1600"
+                    }
+                ]
+}

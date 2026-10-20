@@ -1,0 +1,166 @@
+{
+    "friendlyName": "★ Fold / Pixel Fold-like",
+    "version":  1,
+    "screens":  [
+                    {
+                        "width":  1080,
+                        "height":  2092,
+                        "navigationBarHeight":  120,
+                        "dpi":  420,
+                        "presentation":  {
+                                             "name":  "Cover",
+                                             "borderSize":  {
+                                                                "x":  48,
+                                                                "y":  48,
+                                                                "z":  48,
+                                                                "w":  48
+                                                            },
+                                             "cornerRadius":  48,
+                                             "overlayPath":  "DeviceOverlays/PixelFoldLike_Cover_Overlay.png"
+                                         },
+                        "orientations":  [
+                                             {
+                                                 "orientation":  1,
+                                                 "safeArea":  {
+                                                                  "serializedVersion":  "2",
+                                                                  "x":  0,
+                                                                  "y":  0,
+                                                                  "width":  1080,
+                                                                  "height":  1972
+                                                              },
+                                                 "cutouts":  [
+
+                                                             ]
+                                             },
+                                             {
+                                                 "orientation":  2,
+                                                 "safeArea":  {
+                                                                  "serializedVersion":  "2",
+                                                                  "x":  0,
+                                                                  "y":  120,
+                                                                  "width":  1080,
+                                                                  "height":  1972
+                                                              },
+                                                 "cutouts":  [
+
+                                                             ]
+                                             },
+                                             {
+                                                 "orientation":  3,
+                                                 "safeArea":  {
+                                                                  "serializedVersion":  "2",
+                                                                  "x":  120,
+                                                                  "y":  0,
+                                                                  "width":  1972,
+                                                                  "height":  1080
+                                                              },
+                                                 "cutouts":  [
+
+                                                             ]
+                                             },
+                                             {
+                                                 "orientation":  4,
+                                                 "safeArea":  {
+                                                                  "serializedVersion":  "2",
+                                                                  "x":  0,
+                                                                  "y":  0,
+                                                                  "width":  1972,
+                                                                  "height":  1080
+                                                              },
+                                                 "cutouts":  [
+
+                                                             ]
+                                             }
+                                         ]
+                    },
+                    {
+                        "width":  1840,
+                        "height":  2208,
+                        "navigationBarHeight":  120,
+                        "dpi":  420,
+                        "presentation":  {
+                                             "name":  "Inner",
+                                             "borderSize":  {
+                                                                "x":  72,
+                                                                "y":  72,
+                                                                "z":  72,
+                                                                "w":  72
+                                                            },
+                                             "cornerRadius":  72,
+                                             "overlayPath":  "DeviceOverlays/PixelFoldLike_Inner_Overlay.png"
+                                         },
+                        "orientations":  [
+                                             {
+                                                 "safeArea":  {
+                                                                  "y":  0,
+                                                                  "serializedVersion":  "2",
+                                                                  "width":  1840,
+                                                                  "height":  2088,
+                                                                  "x":  0
+                                                              },
+                                                 "orientation":  1,
+                                                 "cutouts":  [
+
+                                                             ]
+                                             },
+                                             {
+                                                 "safeArea":  {
+                                                                  "y":  120,
+                                                                  "serializedVersion":  "2",
+                                                                  "width":  1840,
+                                                                  "height":  2088,
+                                                                  "x":  0
+                                                              },
+                                                 "orientation":  2,
+                                                 "cutouts":  [
+
+                                                             ]
+                                             },
+                                             {
+                                                 "safeArea":  {
+                                                                  "y":  0,
+                                                                  "serializedVersion":  "2",
+                                                                  "width":  2088,
+                                                                  "height":  1840,
+                                                                  "x":  120
+                                                              },
+                                                 "orientation":  3,
+                                                 "cutouts":  [
+
+                                                             ]
+                                             },
+                                             {
+                                                 "safeArea":  {
+                                                                  "y":  0,
+                                                                  "serializedVersion":  "2",
+                                                                  "width":  2208,
+                                                                  "height":  1840,
+                                                                  "x":  0
+                                                              },
+                                                 "orientation":  4,
+                                                 "cutouts":  [
+
+                                                             ]
+                                             }
+                                         ]
+                    }
+                ],
+    "systemInfo":  {
+                       "supportsAccelerometer":  true,
+                       "processorType":  "ARM64 FP ASIMD AES",
+                       "deviceModel":  "gamedev pixel-fold-like",
+                       "processorCount":  8,
+                       "operatingSystem":  "Android OS 14 / API-34",
+                       "graphicsDependentData":  [
+
+                                                 ],
+                       "supportsVibration":  true,
+                       "supportsGyroscope":  true,
+                       "processorFrequency":  2800,
+                       "systemMemorySize":  8192,
+                       "supportsAudio":  true,
+                       "supportsLocationService":  true,
+                       "deviceType":  1,
+                       "operatingSystemFamily":  0
+                   }
+}

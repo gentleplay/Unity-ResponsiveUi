@@ -1,0 +1,166 @@
+{
+    "friendlyName": "★ Fold / Honor Magic V3-like",
+    "version":  1,
+    "screens":  [
+                    {
+                        "width":  1060,
+                        "orientations":  [
+                                             {
+                                                 "safeArea":  {
+                                                                  "y":  0,
+                                                                  "serializedVersion":  "2",
+                                                                  "width":  1060,
+                                                                  "height":  2256,
+                                                                  "x":  0
+                                                              },
+                                                 "orientation":  1,
+                                                 "cutouts":  [
+
+                                                             ]
+                                             },
+                                             {
+                                                 "safeArea":  {
+                                                                  "y":  120,
+                                                                  "serializedVersion":  "2",
+                                                                  "width":  1060,
+                                                                  "height":  2256,
+                                                                  "x":  0
+                                                              },
+                                                 "orientation":  2,
+                                                 "cutouts":  [
+
+                                                             ]
+                                             },
+                                             {
+                                                 "safeArea":  {
+                                                                  "y":  0,
+                                                                  "serializedVersion":  "2",
+                                                                  "width":  2256,
+                                                                  "height":  1060,
+                                                                  "x":  120
+                                                              },
+                                                 "orientation":  3,
+                                                 "cutouts":  [
+
+                                                             ]
+                                             },
+                                             {
+                                                 "safeArea":  {
+                                                                  "y":  0,
+                                                                  "serializedVersion":  "2",
+                                                                  "width":  2376,
+                                                                  "height":  1060,
+                                                                  "x":  0
+                                                              },
+                                                 "orientation":  4,
+                                                 "cutouts":  [
+
+                                                             ]
+                                             }
+                                         ],
+                        "presentation":  {
+                                             "overlayPath":  "DeviceOverlays/HonorMagicV3Like_Cover_Overlay.png",
+                                             "borderSize":  {
+                                                                "y":  48,
+                                                                "w":  48,
+                                                                "z":  48,
+                                                                "x":  48
+                                                            },
+                                             "name":  "Cover",
+                                             "cornerRadius":  48
+                                         },
+                        "navigationBarHeight":  120,
+                        "dpi":  402,
+                        "height":  2376
+                    },
+                    {
+                        "width":  2156,
+                        "orientations":  [
+                                             {
+                                                 "safeArea":  {
+                                                                  "y":  0,
+                                                                  "serializedVersion":  "2",
+                                                                  "width":  2156,
+                                                                  "height":  2224,
+                                                                  "x":  0
+                                                              },
+                                                 "orientation":  1,
+                                                 "cutouts":  [
+
+                                                             ]
+                                             },
+                                             {
+                                                 "safeArea":  {
+                                                                  "y":  120,
+                                                                  "serializedVersion":  "2",
+                                                                  "width":  2156,
+                                                                  "height":  2224,
+                                                                  "x":  0
+                                                              },
+                                                 "orientation":  2,
+                                                 "cutouts":  [
+
+                                                             ]
+                                             },
+                                             {
+                                                 "safeArea":  {
+                                                                  "y":  0,
+                                                                  "serializedVersion":  "2",
+                                                                  "width":  2224,
+                                                                  "height":  2156,
+                                                                  "x":  120
+                                                              },
+                                                 "orientation":  3,
+                                                 "cutouts":  [
+
+                                                             ]
+                                             },
+                                             {
+                                                 "safeArea":  {
+                                                                  "y":  0,
+                                                                  "serializedVersion":  "2",
+                                                                  "width":  2344,
+                                                                  "height":  2156,
+                                                                  "x":  0
+                                                              },
+                                                 "orientation":  4,
+                                                 "cutouts":  [
+
+                                                             ]
+                                             }
+                                         ],
+                        "presentation":  {
+                                             "overlayPath":  "DeviceOverlays/HonorMagicV3Like_Inner_Overlay.png",
+                                             "borderSize":  {
+                                                                "y":  72,
+                                                                "w":  72,
+                                                                "z":  72,
+                                                                "x":  72
+                                                            },
+                                             "name":  "Inner",
+                                             "cornerRadius":  72
+                                         },
+                        "navigationBarHeight":  120,
+                        "dpi":  402,
+                        "height":  2344
+                    }
+                ],
+    "systemInfo":  {
+                       "supportsAccelerometer":  true,
+                       "processorType":  "ARM64 FP ASIMD AES",
+                       "deviceModel":  "gamedev magic-v3-like",
+                       "processorCount":  8,
+                       "operatingSystem":  "Android OS 14 / API-34",
+                       "graphicsDependentData":  [
+
+                                                 ],
+                       "supportsVibration":  true,
+                       "supportsGyroscope":  true,
+                       "processorFrequency":  2800,
+                       "systemMemorySize":  12288,
+                       "supportsAudio":  true,
+                       "supportsLocationService":  true,
+                       "deviceType":  1,
+                       "operatingSystemFamily":  0
+                   }
+}

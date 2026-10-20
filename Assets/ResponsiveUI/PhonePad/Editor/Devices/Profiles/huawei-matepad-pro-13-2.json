@@ -1,0 +1,25 @@
+{
+    "id":  "huawei-matepad-pro-13-2",
+    "shortName":  "MatePad Pro 13.2",
+    "brand":  "Huawei",
+    "deviceModel":  "GOT-W29",
+    "kind":  "Pad",
+    "portraitWidth":  1920,
+    "portraitHeight":  2880,
+    "landscapeWidth":  2880,
+    "landscapeHeight":  1920,
+    "dpi":  262,
+    "diagonalInches":  13.2,
+    "basedOn":  "Huawei MatePad Pro 13.2",
+    "notes":  "",
+    "verifiedDate":  "2026-08-10",
+    "verifiedStatus":  "approx",
+    "deviceFile":  "Editor/Devices/huawei-matepad-pro-13-2.device",
+    "sources":  [
+                    {
+                        "title":  "Huawei MatePad Pro",
+                        "url":  "https://consumer.huawei.com/en/tablets/matepad-pro/",
+                        "quote":  "Family listing"
+                    }
+                ]
+}

@@ -1,0 +1,25 @@
+{
+    "id":  "motorola-edge-50-ultra",
+    "shortName":  "Motorola Edge 50 Ultra",
+    "brand":  "Motorola",
+    "deviceModel":  "XT2401-1",
+    "kind":  "Phone",
+    "portraitWidth":  1220,
+    "portraitHeight":  2712,
+    "landscapeWidth":  2712,
+    "landscapeHeight":  1220,
+    "dpi":  446,
+    "diagonalInches":  6.7,
+    "basedOn":  "Motorola Edge 50 Ultra",
+    "notes":  "",
+    "verifiedDate":  "2026-08-10",
+    "verifiedStatus":  "matched",
+    "deviceFile":  "Editor/Devices/motorola-edge-50-ultra.device",
+    "sources":  [
+                    {
+                        "title":  "Motorola Support edge 50 ultra",
+                        "url":  "https://en-apac.support.motorola.com/app/answers/detail/a_id/187312/",
+                        "quote":  "2712 x 1220, 446 ppi, 6.7-inch"
+                    }
+                ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "com.futuredigitalplus.responsiveui",
+  "version": "1.0.0",
+  "displayName": "Responsive UI",
+  "description": "Responsive layout + Device Simulator profiles for Phone, Pad, Android Fold / Flip, iPhone Duo (Cover / Seated) and Wide Screen (Windows / macOS / Linux / WebGL). Ships as an Assets drop-in or .unitypackage (not a UPM package in Packages/).",
+  "unity": "2023.1",
+  "licensesUrl": "LICENSE.md",
+  "license": "MIT",
+  "dependencies": {
+    "com.unity.ugui": "2.0.0"
+  },
+  "author": {
+    "name": "futuredigitalplus"
+  },
+  "keywords": [
+    "ui",
+    "responsive",
+    "foldable",
+    "device-simulator"
+  ]
+}

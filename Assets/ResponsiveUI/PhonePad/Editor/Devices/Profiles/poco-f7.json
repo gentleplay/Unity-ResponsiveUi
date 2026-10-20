@@ -1,0 +1,25 @@
+{
+    "id":  "poco-f7",
+    "shortName":  "POCO F7",
+    "brand":  "Xiaomi",
+    "deviceModel":  "24117RN76G",
+    "kind":  "Phone",
+    "portraitWidth":  1280,
+    "portraitHeight":  2772,
+    "landscapeWidth":  2772,
+    "landscapeHeight":  1280,
+    "dpi":  460,
+    "diagonalInches":  6.8,
+    "basedOn":  "Xiaomi POCO F7",
+    "notes":  "",
+    "verifiedDate":  "2026-08-10",
+    "verifiedStatus":  "matched",
+    "deviceFile":  "Editor/Devices/poco-f7.device",
+    "sources":  [
+                    {
+                        "title":  "GSMArena POCO F7",
+                        "url":  "https://www.gsmarena.com/xiaomi_poco_f7-13816.php",
+                        "quote":  "1280 x 2772 pixels (~460 ppi); 6.8-inch"
+                    }
+                ]
+}

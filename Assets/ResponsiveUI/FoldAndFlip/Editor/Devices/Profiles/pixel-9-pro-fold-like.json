@@ -1,0 +1,55 @@
+{
+    "id":  "pixel-9-pro-fold-like",
+    "shortName":  "Pixel 9 Pro Fold-like",
+    "listCategory":  "Fold",
+    "deviceModel":  "gamedev pixel9-pro-fold-like",
+    "kind":  "FoldablePhone",
+    "preferredHinge":  "Horizontal",
+    "preferSeparating":  false,
+    "basedOn":  "Google Pixel 9 Pro Fold",
+    "notes":  "Normal = Cover. Expand / Flex = Inner.",
+    "verifiedDate":  "2026-08-07",
+    "verifiedStatus":  "matched",
+    "sources":  [
+                    {
+                        "title":  "GSMArena - Pixel 9 Pro Fold",
+                        "url":  "https://www.gsmarena.com/google_pixel_9_pro_fold-13220.php",
+                        "quote":  "Cover 1080x2424; Inner 2076x2152"
+                    }
+                ],
+    "skins":  {
+                  "deviceFile":  "Editor/Devices/Pixel 9 Pro Fold-like.device",
+                  "overlays":  [
+                                   {
+                                       "screen":  "Cover",
+                                       "path":  "Editor/Devices/DeviceOverlays/Pixel9ProFoldLike_Cover_Overlay.png"
+                                   },
+                                   {
+                                       "screen":  "Inner",
+                                       "path":  "Editor/Devices/DeviceOverlays/Pixel9ProFoldLike_Inner_Overlay.png"
+                                   }
+                               ]
+              },
+    "screens":  [
+                    {
+                        "name":  "Cover",
+                        "width":  1080,
+                        "height":  2424,
+                        "portraitWidth":  1080,
+                        "portraitHeight":  2424,
+                        "landscapeWidth":  2424,
+                        "landscapeHeight":  1080,
+                        "coverOrOuter":  true
+                    },
+                    {
+                        "name":  "Inner",
+                        "width":  2076,
+                        "height":  2152,
+                        "portraitWidth":  2076,
+                        "portraitHeight":  2152,
+                        "landscapeWidth":  2152,
+                        "landscapeHeight":  2076,
+                        "coverOrOuter":  false
+                    }
+                ]
+}

@@ -1,0 +1,25 @@
+{
+    "id":  "pixel-tablet",
+    "shortName":  "Pixel Tablet",
+    "brand":  "Google",
+    "deviceModel":  "Pixel Tablet",
+    "kind":  "Pad",
+    "portraitWidth":  1600,
+    "portraitHeight":  2560,
+    "landscapeWidth":  2560,
+    "landscapeHeight":  1600,
+    "dpi":  276,
+    "diagonalInches":  10.95,
+    "basedOn":  "Google Pixel Tablet",
+    "notes":  "",
+    "verifiedDate":  "2026-08-10",
+    "verifiedStatus":  "matched",
+    "deviceFile":  "Editor/Devices/pixel-tablet.device",
+    "sources":  [
+                    {
+                        "title":  "Google Store - Pixel Tablet",
+                        "url":  "https://store.google.com/product/pixel_tablet",
+                        "quote":  "2560 x 1600"
+                    }
+                ]
+}

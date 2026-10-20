@@ -1,0 +1,25 @@
+{
+    "id":  "xiaomi-pad-7-pro",
+    "shortName":  "Xiaomi Pad 7 Pro",
+    "brand":  "Xiaomi",
+    "deviceModel":  "24072PX77G",
+    "kind":  "Pad",
+    "portraitWidth":  2136,
+    "portraitHeight":  3200,
+    "landscapeWidth":  3200,
+    "landscapeHeight":  2136,
+    "dpi":  345,
+    "diagonalInches":  11.2,
+    "basedOn":  "Xiaomi Pad 7 Pro",
+    "notes":  "",
+    "verifiedDate":  "2026-08-10",
+    "verifiedStatus":  "matched",
+    "deviceFile":  "Editor/Devices/xiaomi-pad-7-pro.device",
+    "sources":  [
+                    {
+                        "title":  "Xiaomi UK Pad 7 Pro specs",
+                        "url":  "https://www.mi.com/uk/product/xiaomi-pad-7-pro/specs/",
+                        "quote":  "3200 x 2136, 345 ppi, 11.2-inch"
+                    }
+                ]
+}

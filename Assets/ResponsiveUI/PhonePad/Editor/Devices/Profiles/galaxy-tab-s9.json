@@ -1,0 +1,25 @@
+{
+    "id":  "galaxy-tab-s9",
+    "shortName":  "Galaxy Tab S9",
+    "brand":  "Samsung",
+    "deviceModel":  "SM-X710",
+    "kind":  "Pad",
+    "portraitWidth":  1600,
+    "portraitHeight":  2560,
+    "landscapeWidth":  2560,
+    "landscapeHeight":  1600,
+    "dpi":  274,
+    "diagonalInches":  11,
+    "basedOn":  "Samsung Galaxy Tab S9",
+    "notes":  "",
+    "verifiedDate":  "2026-08-10",
+    "verifiedStatus":  "matched",
+    "deviceFile":  "Editor/Devices/galaxy-tab-s9.device",
+    "sources":  [
+                    {
+                        "title":  "Samsung Galaxy Tab S9",
+                        "url":  "https://www.samsung.com/us/tablets/galaxy-tab-s9/",
+                        "quote":  "2560 x 1600"
+                    }
+                ]
+}

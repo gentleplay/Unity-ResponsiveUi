@@ -1,0 +1,25 @@
+{
+    "id":  "pixel-10-pro",
+    "shortName":  "Pixel 10 Pro",
+    "brand":  "Google",
+    "deviceModel":  "Pixel 10 Pro",
+    "kind":  "Phone",
+    "portraitWidth":  1280,
+    "portraitHeight":  2856,
+    "landscapeWidth":  2856,
+    "landscapeHeight":  1280,
+    "dpi":  495,
+    "diagonalInches":  6.3,
+    "basedOn":  "Google Pixel 10 Pro",
+    "notes":  "",
+    "verifiedDate":  "2026-08-10",
+    "verifiedStatus":  "matched",
+    "deviceFile":  "Editor/Devices/pixel-10-pro.device",
+    "sources":  [
+                    {
+                        "title":  "Google Pixel hardware specs",
+                        "url":  "https://support.google.com/pixelphone/answer/7158570",
+                        "quote":  "1280 x 2856 at 495 PPI"
+                    }
+                ]
+}

@@ -1,0 +1,25 @@
+{
+    "id":  "pixel-8-pro",
+    "shortName":  "Pixel 8 Pro",
+    "brand":  "Google",
+    "deviceModel":  "Pixel 8 Pro",
+    "kind":  "Phone",
+    "portraitWidth":  1344,
+    "portraitHeight":  2992,
+    "landscapeWidth":  2992,
+    "landscapeHeight":  1344,
+    "dpi":  489,
+    "diagonalInches":  6.7,
+    "basedOn":  "Google Pixel 8 Pro",
+    "notes":  "",
+    "verifiedDate":  "2026-08-10",
+    "verifiedStatus":  "matched",
+    "deviceFile":  "Editor/Devices/pixel-8-pro.device",
+    "sources":  [
+                    {
+                        "title":  "Google Pixel hardware specs",
+                        "url":  "https://support.google.com/pixelphone/answer/7158570",
+                        "quote":  "1344 x 2992 at 489 PPI"
+                    }
+                ]
+}

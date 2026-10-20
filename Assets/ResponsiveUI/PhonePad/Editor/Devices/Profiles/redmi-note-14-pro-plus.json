@@ -1,0 +1,25 @@
+{
+    "id":  "redmi-note-14-pro-plus",
+    "shortName":  "Redmi Note 14 Pro+",
+    "brand":  "Xiaomi",
+    "deviceModel":  "24115RA8EG",
+    "kind":  "Phone",
+    "portraitWidth":  1220,
+    "portraitHeight":  2712,
+    "landscapeWidth":  2712,
+    "landscapeHeight":  1220,
+    "dpi":  446,
+    "diagonalInches":  6.67,
+    "basedOn":  "Xiaomi Redmi Note 14 Pro+",
+    "notes":  "",
+    "verifiedDate":  "2026-08-10",
+    "verifiedStatus":  "matched",
+    "deviceFile":  "Editor/Devices/redmi-note-14-pro-plus.device",
+    "sources":  [
+                    {
+                        "title":  "GSMArena Redmi Note 14 Pro+",
+                        "url":  "https://www.gsmarena.com/xiaomi_redmi_note_14_pro+_5g-13472.php",
+                        "quote":  "1220 x 2712 pixels (~446 ppi); 6.67-inch"
+                    }
+                ]
+}

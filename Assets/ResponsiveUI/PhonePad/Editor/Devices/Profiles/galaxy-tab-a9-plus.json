@@ -1,0 +1,25 @@
+{
+    "id":  "galaxy-tab-a9-plus",
+    "shortName":  "Galaxy Tab A9+",
+    "brand":  "Samsung",
+    "deviceModel":  "SM-X210",
+    "kind":  "Pad",
+    "portraitWidth":  1200,
+    "portraitHeight":  1920,
+    "landscapeWidth":  1920,
+    "landscapeHeight":  1200,
+    "dpi":  212,
+    "diagonalInches":  11,
+    "basedOn":  "Samsung Galaxy Tab A9+",
+    "notes":  "",
+    "verifiedDate":  "2026-08-10",
+    "verifiedStatus":  "matched",
+    "deviceFile":  "Editor/Devices/galaxy-tab-a9-plus.device",
+    "sources":  [
+                    {
+                        "title":  "Samsung Galaxy Tab A9+",
+                        "url":  "https://www.samsung.com/us/tablets/galaxy-tab-a/galaxy-tab-a9-plus/",
+                        "quote":  "1920 x 1200"
+                    }
+                ]
+}

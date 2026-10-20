@@ -1,0 +1,25 @@
+{
+    "id":  "galaxy-tab-s9-ultra",
+    "shortName":  "Galaxy Tab S9 Ultra",
+    "brand":  "Samsung",
+    "deviceModel":  "SM-X910",
+    "kind":  "Pad",
+    "portraitWidth":  1848,
+    "portraitHeight":  2960,
+    "landscapeWidth":  2960,
+    "landscapeHeight":  1848,
+    "dpi":  240,
+    "diagonalInches":  14.6,
+    "basedOn":  "Samsung Galaxy Tab S9 Ultra",
+    "notes":  "",
+    "verifiedDate":  "2026-08-10",
+    "verifiedStatus":  "matched",
+    "deviceFile":  "Editor/Devices/galaxy-tab-s9-ultra.device",
+    "sources":  [
+                    {
+                        "title":  "Samsung Galaxy Tab S9 Ultra",
+                        "url":  "https://www.samsung.com/us/tablets/galaxy-tab-s9/",
+                        "quote":  "2960 x 1848"
+                    }
+                ]
+}

@@ -1,0 +1,25 @@
+{
+    "id":  "poco-f6",
+    "shortName":  "POCO F6",
+    "brand":  "Xiaomi",
+    "deviceModel":  "23122PCD1G",
+    "kind":  "Phone",
+    "portraitWidth":  1220,
+    "portraitHeight":  2712,
+    "landscapeWidth":  2712,
+    "landscapeHeight":  1220,
+    "dpi":  446,
+    "diagonalInches":  6.67,
+    "basedOn":  "Xiaomi POCO F6",
+    "notes":  "",
+    "verifiedDate":  "2026-08-10",
+    "verifiedStatus":  "matched",
+    "deviceFile":  "Editor/Devices/poco-f6.device",
+    "sources":  [
+                    {
+                        "title":  "POCO F6",
+                        "url":  "https://www.po.co/global/product/poco-f6/",
+                        "quote":  "2712 x 1220"
+                    }
+                ]
+}

@@ -1,0 +1,19 @@
+{
+    "name": "com.futuredigitalplus.phonepad.simulator.editor",
+    "rootNamespace": "FDPlus.PhonePad.Editor",
+    "references": [
+        "com.futuredigitalplus.responsiveui.shared.editor",
+        "UnityEditor.DeviceSimulatorModule"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

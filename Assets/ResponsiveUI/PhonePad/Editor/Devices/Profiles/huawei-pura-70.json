@@ -1,0 +1,25 @@
+{
+    "id":  "huawei-pura-70",
+    "shortName":  "Huawei Pura 70",
+    "brand":  "Huawei",
+    "deviceModel":  "ADY-AL00",
+    "kind":  "Phone",
+    "portraitWidth":  1256,
+    "portraitHeight":  2760,
+    "landscapeWidth":  2760,
+    "landscapeHeight":  1256,
+    "dpi":  450,
+    "diagonalInches":  6.6,
+    "basedOn":  "Huawei Pura 70",
+    "notes":  "",
+    "verifiedDate":  "2026-08-10",
+    "verifiedStatus":  "matched",
+    "deviceFile":  "Editor/Devices/huawei-pura-70.device",
+    "sources":  [
+                    {
+                        "title":  "Huawei SG Pura 70",
+                        "url":  "https://consumer.huawei.com/sg/phones/pura70/specs/",
+                        "quote":  "2760 x 1256"
+                    }
+                ]
+}

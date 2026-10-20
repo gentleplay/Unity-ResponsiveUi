@@ -1,0 +1,25 @@
+{
+    "id":  "xiaomi-pad-7",
+    "shortName":  "Xiaomi Pad 7",
+    "brand":  "Xiaomi",
+    "deviceModel":  "24091RPADC",
+    "kind":  "Pad",
+    "portraitWidth":  2136,
+    "portraitHeight":  3200,
+    "landscapeWidth":  3200,
+    "landscapeHeight":  2136,
+    "dpi":  345,
+    "diagonalInches":  11.2,
+    "basedOn":  "Xiaomi Pad 7",
+    "notes":  "",
+    "verifiedDate":  "2026-08-10",
+    "verifiedStatus":  "matched",
+    "deviceFile":  "Editor/Devices/xiaomi-pad-7.device",
+    "sources":  [
+                    {
+                        "title":  "Xiaomi SG Pad 7 specs",
+                        "url":  "https://www.mi.com/sg/product/xiaomi-pad-7/specs/",
+                        "quote":  "3200 x 2136, 345 ppi, 11.2-inch"
+                    }
+                ]
+}

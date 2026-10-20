@@ -1,0 +1,166 @@
+{
+    "friendlyName": "★ Flip / Galaxy Z Flip-like",
+    "version":  1,
+    "screens":  [
+                    {
+                        "width":  720,
+                        "orientations":  [
+                                             {
+                                                 "safeArea":  {
+                                                                  "y":  0,
+                                                                  "serializedVersion":  "2",
+                                                                  "width":  720,
+                                                                  "height":  748,
+                                                                  "x":  0
+                                                              },
+                                                 "orientation":  1,
+                                                 "cutouts":  [
+
+                                                             ]
+                                             },
+                                             {
+                                                 "safeArea":  {
+                                                                  "y":  0,
+                                                                  "serializedVersion":  "2",
+                                                                  "width":  720,
+                                                                  "height":  748,
+                                                                  "x":  0
+                                                              },
+                                                 "orientation":  2,
+                                                 "cutouts":  [
+
+                                                             ]
+                                             },
+                                             {
+                                                 "safeArea":  {
+                                                                  "y":  0,
+                                                                  "serializedVersion":  "2",
+                                                                  "width":  748,
+                                                                  "height":  720,
+                                                                  "x":  0
+                                                              },
+                                                 "orientation":  3,
+                                                 "cutouts":  [
+
+                                                             ]
+                                             },
+                                             {
+                                                 "safeArea":  {
+                                                                  "y":  0,
+                                                                  "serializedVersion":  "2",
+                                                                  "width":  748,
+                                                                  "height":  720,
+                                                                  "x":  0
+                                                              },
+                                                 "orientation":  4,
+                                                 "cutouts":  [
+
+                                                             ]
+                                             }
+                                         ],
+                        "presentation":  {
+                                             "borderSize":  {
+                                                                "y":  36,
+                                                                "w":  36,
+                                                                "z":  36,
+                                                                "x":  36
+                                                            },
+                                             "name":  "Cover",
+                                             "cornerRadius":  36,
+                                             "overlayPath":  "DeviceOverlays/GalaxyZFlipLike_Cover_Overlay.png"
+                                         },
+                        "navigationBarHeight":  0,
+                        "dpi":  320,
+                        "height":  748
+                    },
+                    {
+                        "width":  1080,
+                        "orientations":  [
+                                             {
+                                                 "safeArea":  {
+                                                                  "y":  0,
+                                                                  "serializedVersion":  "2",
+                                                                  "width":  1080,
+                                                                  "height":  2520,
+                                                                  "x":  0
+                                                              },
+                                                 "orientation":  1,
+                                                 "cutouts":  [
+
+                                                             ]
+                                             },
+                                             {
+                                                 "safeArea":  {
+                                                                  "y":  120,
+                                                                  "serializedVersion":  "2",
+                                                                  "width":  1080,
+                                                                  "height":  2520,
+                                                                  "x":  0
+                                                              },
+                                                 "orientation":  2,
+                                                 "cutouts":  [
+
+                                                             ]
+                                             },
+                                             {
+                                                 "safeArea":  {
+                                                                  "y":  0,
+                                                                  "serializedVersion":  "2",
+                                                                  "width":  2520,
+                                                                  "height":  1080,
+                                                                  "x":  120
+                                                              },
+                                                 "orientation":  3,
+                                                 "cutouts":  [
+
+                                                             ]
+                                             },
+                                             {
+                                                 "safeArea":  {
+                                                                  "y":  0,
+                                                                  "serializedVersion":  "2",
+                                                                  "width":  2520,
+                                                                  "height":  1080,
+                                                                  "x":  0
+                                                              },
+                                                 "orientation":  4,
+                                                 "cutouts":  [
+
+                                                             ]
+                                             }
+                                         ],
+                        "presentation":  {
+                                             "borderSize":  {
+                                                                "y":  60,
+                                                                "w":  60,
+                                                                "z":  60,
+                                                                "x":  60
+                                                            },
+                                             "name":  "Main",
+                                             "cornerRadius":  60,
+                                             "overlayPath":  "DeviceOverlays/GalaxyZFlipLike_Main_Overlay.png"
+                                         },
+                        "navigationBarHeight":  120,
+                        "dpi":  420,
+                        "height":  2640
+                    }
+                ],
+    "systemInfo":  {
+                       "supportsAccelerometer":  true,
+                       "processorType":  "ARM64 FP ASIMD AES",
+                       "deviceModel":  "gamedev flip-like",
+                       "processorCount":  8,
+                       "operatingSystem":  "Android OS 14 / API-34",
+                       "graphicsDependentData":  [
+
+                                                 ],
+                       "supportsVibration":  true,
+                       "supportsGyroscope":  true,
+                       "processorFrequency":  2800,
+                       "systemMemorySize":  8192,
+                       "supportsAudio":  true,
+                       "supportsLocationService":  true,
+                       "deviceType":  1,
+                       "operatingSystemFamily":  0
+                   }
+}

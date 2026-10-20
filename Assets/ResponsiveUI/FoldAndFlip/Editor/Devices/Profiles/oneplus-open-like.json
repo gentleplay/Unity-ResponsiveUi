@@ -1,0 +1,55 @@
+{
+    "id":  "oneplus-open-like",
+    "shortName":  "OnePlus Open-like",
+    "listCategory":  "Fold",
+    "deviceModel":  "gamedev oneplus-open-like",
+    "kind":  "FoldablePhone",
+    "preferredHinge":  "Horizontal",
+    "preferSeparating":  false,
+    "basedOn":  "OnePlus Open",
+    "notes":  "Normal = Cover. Expand / Flex = Inner.",
+    "verifiedDate":  "2026-08-07",
+    "verifiedStatus":  "matched",
+    "sources":  [
+                    {
+                        "title":  "OnePlus Open specs",
+                        "url":  "https://www.oneplus.com/global/open/specs",
+                        "quote":  "Cover 1116x2484; Inner 2268x2440"
+                    }
+                ],
+    "skins":  {
+                  "deviceFile":  "Editor/Devices/OnePlus Open-like.device",
+                  "overlays":  [
+                                   {
+                                       "screen":  "Cover",
+                                       "path":  "Editor/Devices/DeviceOverlays/OnePlusOpenLike_Cover_Overlay.png"
+                                   },
+                                   {
+                                       "screen":  "Inner",
+                                       "path":  "Editor/Devices/DeviceOverlays/OnePlusOpenLike_Inner_Overlay.png"
+                                   }
+                               ]
+              },
+    "screens":  [
+                    {
+                        "name":  "Cover",
+                        "width":  1116,
+                        "height":  2484,
+                        "portraitWidth":  1116,
+                        "portraitHeight":  2484,
+                        "landscapeWidth":  2484,
+                        "landscapeHeight":  1116,
+                        "coverOrOuter":  true
+                    },
+                    {
+                        "name":  "Inner",
+                        "width":  2268,
+                        "height":  2440,
+                        "portraitWidth":  2268,
+                        "portraitHeight":  2440,
+                        "landscapeWidth":  2440,
+                        "landscapeHeight":  2268,
+                        "coverOrOuter":  false
+                    }
+                ]
+}

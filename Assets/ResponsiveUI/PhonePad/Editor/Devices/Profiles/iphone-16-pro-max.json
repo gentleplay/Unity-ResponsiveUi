@@ -1,0 +1,25 @@
+{
+    "id":  "iphone-16-pro-max",
+    "shortName":  "iPhone 16 Pro Max",
+    "brand":  "Apple",
+    "deviceModel":  "iPhone17,2",
+    "kind":  "Phone",
+    "portraitWidth":  1320,
+    "portraitHeight":  2868,
+    "landscapeWidth":  2868,
+    "landscapeHeight":  1320,
+    "dpi":  460,
+    "diagonalInches":  6.9,
+    "basedOn":  "Apple iPhone 16 Pro Max",
+    "notes":  "",
+    "verifiedDate":  "2026-08-10",
+    "verifiedStatus":  "matched",
+    "deviceFile":  "Editor/Devices/iphone-16-pro-max.device",
+    "sources":  [
+                    {
+                        "title":  "Apple Support - iPhone 16 Pro Max",
+                        "url":  "https://support.apple.com/en-us/121032",
+                        "quote":  "2868-by-1320 at 460 ppi"
+                    }
+                ]
+}

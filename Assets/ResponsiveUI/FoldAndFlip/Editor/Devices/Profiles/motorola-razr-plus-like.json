@@ -1,0 +1,55 @@
+{
+    "id":  "motorola-razr-plus-like",
+    "shortName":  "Motorola Razr+-like",
+    "listCategory":  "Flip",
+    "deviceModel":  "gamedev razr-plus-like",
+    "kind":  "FlipablePhone",
+    "preferredHinge":  "Horizontal",
+    "preferSeparating":  false,
+    "basedOn":  "Motorola razr+ (2023)",
+    "notes":  "Closed = Cover. Opened / Flex = Main.",
+    "verifiedDate":  "2026-08-07",
+    "verifiedStatus":  "matched",
+    "sources":  [
+                    {
+                        "title":  "Motorola Support - razr+ 2023",
+                        "url":  "https://en-us.support.motorola.com/app/answers/detail/a_id/174813",
+                        "quote":  "Cover 1056x1066; Main 1080x2640"
+                    }
+                ],
+    "skins":  {
+                  "deviceFile":  "Editor/Devices/Motorola Razr+-like.device",
+                  "overlays":  [
+                                   {
+                                       "screen":  "Cover",
+                                       "path":  "Editor/Devices/DeviceOverlays/MotorolaRazrPlusLike_Cover_Overlay.png"
+                                   },
+                                   {
+                                       "screen":  "Main",
+                                       "path":  "Editor/Devices/DeviceOverlays/MotorolaRazrPlusLike_Main_Overlay.png"
+                                   }
+                               ]
+              },
+    "screens":  [
+                    {
+                        "name":  "Cover",
+                        "width":  1056,
+                        "height":  1066,
+                        "portraitWidth":  1056,
+                        "portraitHeight":  1066,
+                        "landscapeWidth":  1066,
+                        "landscapeHeight":  1056,
+                        "coverOrOuter":  true
+                    },
+                    {
+                        "name":  "Main",
+                        "width":  1080,
+                        "height":  2640,
+                        "portraitWidth":  1080,
+                        "portraitHeight":  2640,
+                        "landscapeWidth":  2640,
+                        "landscapeHeight":  1080,
+                        "coverOrOuter":  false
+                    }
+                ]
+}

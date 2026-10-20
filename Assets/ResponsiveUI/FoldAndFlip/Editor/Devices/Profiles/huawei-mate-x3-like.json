@@ -1,0 +1,55 @@
+{
+    "id":  "huawei-mate-x3-like",
+    "shortName":  "Huawei Mate X3-like",
+    "listCategory":  "Fold",
+    "deviceModel":  "gamedev mate-x3-like",
+    "kind":  "FoldablePhone",
+    "preferredHinge":  "Horizontal",
+    "preferSeparating":  false,
+    "basedOn":  "Huawei Mate X3",
+    "notes":  "Normal = Cover. Expand / Flex = Inner.",
+    "verifiedDate":  "2026-08-07",
+    "verifiedStatus":  "matched",
+    "sources":  [
+                    {
+                        "title":  "GSMArena - Mate X3",
+                        "url":  "https://www.gsmarena.com/huawei_mate_x3-12145.php",
+                        "quote":  "Cover 1080x2504; Inner 2224x2496"
+                    }
+                ],
+    "skins":  {
+                  "deviceFile":  "Editor/Devices/Huawei Mate X3-like.device",
+                  "overlays":  [
+                                   {
+                                       "screen":  "Cover",
+                                       "path":  "Editor/Devices/DeviceOverlays/HuaweiMateX3Like_Cover_Overlay.png"
+                                   },
+                                   {
+                                       "screen":  "Inner",
+                                       "path":  "Editor/Devices/DeviceOverlays/HuaweiMateX3Like_Inner_Overlay.png"
+                                   }
+                               ]
+              },
+    "screens":  [
+                    {
+                        "name":  "Cover",
+                        "width":  1080,
+                        "height":  2504,
+                        "portraitWidth":  1080,
+                        "portraitHeight":  2504,
+                        "landscapeWidth":  2504,
+                        "landscapeHeight":  1080,
+                        "coverOrOuter":  true
+                    },
+                    {
+                        "name":  "Inner",
+                        "width":  2224,
+                        "height":  2496,
+                        "portraitWidth":  2224,
+                        "portraitHeight":  2496,
+                        "landscapeWidth":  2496,
+                        "landscapeHeight":  2224,
+                        "coverOrOuter":  false
+                    }
+                ]
+}

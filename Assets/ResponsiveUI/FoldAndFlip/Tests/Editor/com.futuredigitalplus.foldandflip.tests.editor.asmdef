@@ -1,0 +1,25 @@
+{
+    "name": "com.futuredigitalplus.foldandflip.tests.editor",
+    "rootNamespace": "FDPlus.Foldable.Tests",
+    "references": [
+        "com.futuredigitalplus.foldandflip",
+        "com.futuredigitalplus.foldandflip.editor",
+        "com.futuredigitalplus.responsiveui.shared.editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false,
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ]
+}

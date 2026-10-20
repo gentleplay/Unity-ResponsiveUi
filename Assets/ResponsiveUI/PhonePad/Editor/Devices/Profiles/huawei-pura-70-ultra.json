@@ -1,0 +1,25 @@
+{
+    "id":  "huawei-pura-70-ultra",
+    "shortName":  "Huawei Pura 70 Ultra",
+    "brand":  "Huawei",
+    "deviceModel":  "HBN-AL80",
+    "kind":  "Phone",
+    "portraitWidth":  1260,
+    "portraitHeight":  2844,
+    "landscapeWidth":  2844,
+    "landscapeHeight":  1260,
+    "dpi":  460,
+    "diagonalInches":  6.8,
+    "basedOn":  "Huawei Pura 70 Ultra",
+    "notes":  "",
+    "verifiedDate":  "2026-08-10",
+    "verifiedStatus":  "matched",
+    "deviceFile":  "Editor/Devices/huawei-pura-70-ultra.device",
+    "sources":  [
+                    {
+                        "title":  "Huawei SG Pura 70 Ultra",
+                        "url":  "https://consumer.huawei.com/sg/phones/pura70-ultra/specs/",
+                        "quote":  "2844 x 1260; 460 ppi"
+                    }
+                ]
+}

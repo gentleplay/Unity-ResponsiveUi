@@ -1,0 +1,55 @@
+{
+    "id":  "galaxy-z-fold-special-edition-like",
+    "shortName":  "Galaxy Z Fold Special Edition-like",
+    "listCategory":  "Fold",
+    "deviceModel":  "gamedev fold-se-like",
+    "kind":  "FoldablePhone",
+    "preferredHinge":  "Horizontal",
+    "preferSeparating":  false,
+    "basedOn":  "Samsung Galaxy Z Fold Special Edition",
+    "notes":  "Normal = Cover. Expand / Flex = Inner.",
+    "verifiedDate":  "2026-08-07",
+    "verifiedStatus":  "matched",
+    "sources":  [
+                    {
+                        "title":  "GSMArena - Fold Special Edition",
+                        "url":  "https://www.gsmarena.com/samsung_galaxy_z_fold_special-13452.php",
+                        "quote":  "Cover 1080x2520; Inner 1968x2184"
+                    }
+                ],
+    "skins":  {
+                  "deviceFile":  "Editor/Devices/Galaxy Z Fold Special Edition-like.device",
+                  "overlays":  [
+                                   {
+                                       "screen":  "Cover",
+                                       "path":  "Editor/Devices/DeviceOverlays/GalaxyZFoldSpecialEditionLike_Cover_Overlay.png"
+                                   },
+                                   {
+                                       "screen":  "Inner",
+                                       "path":  "Editor/Devices/DeviceOverlays/GalaxyZFoldSpecialEditionLike_Inner_Overlay.png"
+                                   }
+                               ]
+              },
+    "screens":  [
+                    {
+                        "name":  "Cover",
+                        "width":  1080,
+                        "height":  2520,
+                        "portraitWidth":  1080,
+                        "portraitHeight":  2520,
+                        "landscapeWidth":  2520,
+                        "landscapeHeight":  1080,
+                        "coverOrOuter":  true
+                    },
+                    {
+                        "name":  "Inner",
+                        "width":  1968,
+                        "height":  2184,
+                        "portraitWidth":  1968,
+                        "portraitHeight":  2184,
+                        "landscapeWidth":  2184,
+                        "landscapeHeight":  1968,
+                        "coverOrOuter":  false
+                    }
+                ]
+}

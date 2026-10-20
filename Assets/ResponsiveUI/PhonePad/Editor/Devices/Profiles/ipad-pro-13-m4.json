@@ -1,0 +1,25 @@
+{
+    "id":  "ipad-pro-13-m4",
+    "shortName":  "iPad Pro 13 M4",
+    "brand":  "Apple",
+    "deviceModel":  "iPad16,5",
+    "kind":  "Pad",
+    "portraitWidth":  2064,
+    "portraitHeight":  2752,
+    "landscapeWidth":  2752,
+    "landscapeHeight":  2064,
+    "dpi":  264,
+    "diagonalInches":  13,
+    "basedOn":  "Apple iPad Pro 13-inch (M4)",
+    "notes":  "",
+    "verifiedDate":  "2026-08-10",
+    "verifiedStatus":  "matched",
+    "deviceFile":  "Editor/Devices/ipad-pro-13-m4.device",
+    "sources":  [
+                    {
+                        "title":  "Apple Support - iPad Pro 13 M4",
+                        "url":  "https://support.apple.com/en-au/119891",
+                        "quote":  "2752-by-2064 at 264 ppi"
+                    }
+                ]
+}

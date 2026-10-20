@@ -1,0 +1,25 @@
+{
+    "id":  "motorola-edge-60-pro",
+    "shortName":  "motorola edge 60 pro",
+    "brand":  "Motorola",
+    "deviceModel":  "XT2505",
+    "kind":  "Phone",
+    "portraitWidth":  1220,
+    "portraitHeight":  2712,
+    "landscapeWidth":  2712,
+    "landscapeHeight":  1220,
+    "dpi":  446,
+    "diagonalInches":  6.7,
+    "basedOn":  "Motorola edge 60 pro",
+    "notes":  "",
+    "verifiedDate":  "2026-08-10",
+    "verifiedStatus":  "matched",
+    "deviceFile":  "Editor/Devices/motorola-edge-60-pro.device",
+    "sources":  [
+                    {
+                        "title":  "Motorola Support edge 60 pro",
+                        "url":  "https://en-emea.support.motorola.com/app/answers/detail/a_id/185971/p/8013",
+                        "quote":  "Super HD (2712 x 1220) | 446 ppi; 6.7-inch"
+                    }
+                ]
+}

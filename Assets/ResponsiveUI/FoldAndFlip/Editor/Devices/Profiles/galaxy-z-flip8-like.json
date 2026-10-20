@@ -1,0 +1,55 @@
+{
+    "id":  "galaxy-z-flip8-like",
+    "shortName":  "Galaxy Z Flip8-like",
+    "listCategory":  "Flip",
+    "deviceModel":  "gamedev flip8-like",
+    "kind":  "FlipablePhone",
+    "preferredHinge":  "Horizontal",
+    "preferSeparating":  false,
+    "basedOn":  "Samsung Galaxy Z Flip8",
+    "notes":  "Closed = Cover. Opened / Flex = Main.",
+    "verifiedDate":  "2026-08-07",
+    "verifiedStatus":  "matched",
+    "sources":  [
+                    {
+                        "title":  "Samsung Mobile Press - Flip8",
+                        "url":  "https://www.samsungmobilepress.com/articles/galaxy-z-fold8-ultra-fold8-flip8-perfected-every-way-living",
+                        "quote":  "Cover 948x1048; Main 1080x2520"
+                    }
+                ],
+    "skins":  {
+                  "deviceFile":  "Editor/Devices/Galaxy Z Flip8-like.device",
+                  "overlays":  [
+                                   {
+                                       "screen":  "Cover",
+                                       "path":  "Editor/Devices/DeviceOverlays/GalaxyZFlip8Like_Cover_Overlay.png"
+                                   },
+                                   {
+                                       "screen":  "Main",
+                                       "path":  "Editor/Devices/DeviceOverlays/GalaxyZFlip8Like_Main_Overlay.png"
+                                   }
+                               ]
+              },
+    "screens":  [
+                    {
+                        "name":  "Cover",
+                        "width":  948,
+                        "height":  1048,
+                        "portraitWidth":  948,
+                        "portraitHeight":  1048,
+                        "landscapeWidth":  1048,
+                        "landscapeHeight":  948,
+                        "coverOrOuter":  true
+                    },
+                    {
+                        "name":  "Main",
+                        "width":  1080,
+                        "height":  2520,
+                        "portraitWidth":  1080,
+                        "portraitHeight":  2520,
+                        "landscapeWidth":  2520,
+                        "landscapeHeight":  1080,
+                        "coverOrOuter":  false
+                    }
+                ]
+}

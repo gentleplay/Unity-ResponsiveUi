@@ -1,0 +1,25 @@
+{
+    "id":  "xiaomi-15-pro",
+    "shortName":  "Xiaomi 15 Pro",
+    "brand":  "Xiaomi",
+    "deviceModel":  "2410DPN6CC",
+    "kind":  "Phone",
+    "portraitWidth":  1440,
+    "portraitHeight":  3200,
+    "landscapeWidth":  3200,
+    "landscapeHeight":  1440,
+    "dpi":  522,
+    "diagonalInches":  6.73,
+    "basedOn":  "Xiaomi 15 Pro",
+    "notes":  "",
+    "verifiedDate":  "2026-08-10",
+    "verifiedStatus":  "matched",
+    "deviceFile":  "Editor/Devices/xiaomi-15-pro.device",
+    "sources":  [
+                    {
+                        "title":  "GSMArena Xiaomi 15 Pro",
+                        "url":  "https://www.gsmarena.com/xiaomi_15_pro-13473.php",
+                        "quote":  "1440 x 3200 pixels (~522 ppi); 6.73-inch"
+                    }
+                ]
+}

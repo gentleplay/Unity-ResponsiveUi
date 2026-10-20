@@ -1,0 +1,25 @@
+{
+    "id":  "galaxy-s25-plus",
+    "shortName":  "Galaxy S25+",
+    "brand":  "Samsung",
+    "deviceModel":  "SM-S936",
+    "kind":  "Phone",
+    "portraitWidth":  1440,
+    "portraitHeight":  3120,
+    "landscapeWidth":  3120,
+    "landscapeHeight":  1440,
+    "dpi":  513,
+    "diagonalInches":  6.7,
+    "basedOn":  "Samsung Galaxy S25+",
+    "notes":  "",
+    "verifiedDate":  "2026-08-10",
+    "verifiedStatus":  "matched",
+    "deviceFile":  "Editor/Devices/galaxy-s25-plus.device",
+    "sources":  [
+                    {
+                        "title":  "Samsung UK S25 vs A",
+                        "url":  "https://www.samsung.com/uk/support/mobile-devices/what-are-the-differences-between-the-galaxy-s25-series-and-a-series/",
+                        "quote":  "S25+ Quad HD+ 3120 x 1440"
+                    }
+                ]
+}

@@ -1,0 +1,25 @@
+{
+    "id":  "iphone-16",
+    "shortName":  "iPhone 16",
+    "brand":  "Apple",
+    "deviceModel":  "iPhone17,3",
+    "kind":  "Phone",
+    "portraitWidth":  1179,
+    "portraitHeight":  2556,
+    "landscapeWidth":  2556,
+    "landscapeHeight":  1179,
+    "dpi":  460,
+    "diagonalInches":  6.1,
+    "basedOn":  "Apple iPhone 16",
+    "notes":  "",
+    "verifiedDate":  "2026-08-10",
+    "verifiedStatus":  "matched",
+    "deviceFile":  "Editor/Devices/iphone-16.device",
+    "sources":  [
+                    {
+                        "title":  "Apple - iPhone 16",
+                        "url":  "https://www.apple.com/iphone-16/specs/",
+                        "quote":  "2556-by-1179 at 460 ppi"
+                    }
+                ]
+}

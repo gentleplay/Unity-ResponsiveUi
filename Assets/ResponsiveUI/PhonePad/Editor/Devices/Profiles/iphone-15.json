@@ -1,0 +1,25 @@
+{
+    "id":  "iphone-15",
+    "shortName":  "iPhone 15",
+    "brand":  "Apple",
+    "deviceModel":  "iPhone15,4",
+    "kind":  "Phone",
+    "portraitWidth":  1179,
+    "portraitHeight":  2556,
+    "landscapeWidth":  2556,
+    "landscapeHeight":  1179,
+    "dpi":  460,
+    "diagonalInches":  6.1,
+    "basedOn":  "Apple iPhone 15",
+    "notes":  "",
+    "verifiedDate":  "2026-08-10",
+    "verifiedStatus":  "matched",
+    "deviceFile":  "Editor/Devices/iphone-15.device",
+    "sources":  [
+                    {
+                        "title":  "Apple - iPhone 15",
+                        "url":  "https://www.apple.com/iphone-15/specs/",
+                        "quote":  "2556-by-1179 at 460 ppi"
+                    }
+                ]
+}

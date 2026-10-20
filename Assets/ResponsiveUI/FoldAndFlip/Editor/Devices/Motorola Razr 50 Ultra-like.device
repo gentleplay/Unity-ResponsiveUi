@@ -1,0 +1,166 @@
+{
+    "friendlyName": "★ Flip / Motorola Razr 50 Ultra-like",
+    "version":  1,
+    "screens":  [
+                    {
+                        "width":  1080,
+                        "height":  1272,
+                        "navigationBarHeight":  0,
+                        "dpi":  417,
+                        "presentation":  {
+                                             "name":  "Cover",
+                                             "borderSize":  {
+                                                                "x":  36,
+                                                                "y":  36,
+                                                                "z":  36,
+                                                                "w":  36
+                                                            },
+                                             "cornerRadius":  36,
+                                             "overlayPath":  "DeviceOverlays/MotorolaRazr50UltraLike_Cover_Overlay.png"
+                                         },
+                        "orientations":  [
+                                             {
+                                                 "safeArea":  {
+                                                                  "y":  0,
+                                                                  "serializedVersion":  "2",
+                                                                  "width":  1080,
+                                                                  "height":  1272,
+                                                                  "x":  0
+                                                              },
+                                                 "orientation":  1,
+                                                 "cutouts":  [
+
+                                                             ]
+                                             },
+                                             {
+                                                 "safeArea":  {
+                                                                  "y":  0,
+                                                                  "serializedVersion":  "2",
+                                                                  "width":  1080,
+                                                                  "height":  1272,
+                                                                  "x":  0
+                                                              },
+                                                 "orientation":  2,
+                                                 "cutouts":  [
+
+                                                             ]
+                                             },
+                                             {
+                                                 "safeArea":  {
+                                                                  "y":  0,
+                                                                  "serializedVersion":  "2",
+                                                                  "width":  1272,
+                                                                  "height":  1080,
+                                                                  "x":  0
+                                                              },
+                                                 "orientation":  3,
+                                                 "cutouts":  [
+
+                                                             ]
+                                             },
+                                             {
+                                                 "safeArea":  {
+                                                                  "y":  0,
+                                                                  "serializedVersion":  "2",
+                                                                  "width":  1272,
+                                                                  "height":  1080,
+                                                                  "x":  0
+                                                              },
+                                                 "orientation":  4,
+                                                 "cutouts":  [
+
+                                                             ]
+                                             }
+                                         ]
+                    },
+                    {
+                        "width":  1080,
+                        "height":  2640,
+                        "navigationBarHeight":  120,
+                        "dpi":  413,
+                        "presentation":  {
+                                             "name":  "Main",
+                                             "borderSize":  {
+                                                                "x":  60,
+                                                                "y":  60,
+                                                                "z":  60,
+                                                                "w":  60
+                                                            },
+                                             "cornerRadius":  60,
+                                             "overlayPath":  "DeviceOverlays/MotorolaRazr50UltraLike_Main_Overlay.png"
+                                         },
+                        "orientations":  [
+                                             {
+                                                 "orientation":  1,
+                                                 "safeArea":  {
+                                                                  "serializedVersion":  "2",
+                                                                  "x":  0,
+                                                                  "y":  0,
+                                                                  "width":  1080,
+                                                                  "height":  2520
+                                                              },
+                                                 "cutouts":  [
+
+                                                             ]
+                                             },
+                                             {
+                                                 "orientation":  2,
+                                                 "safeArea":  {
+                                                                  "serializedVersion":  "2",
+                                                                  "x":  0,
+                                                                  "y":  120,
+                                                                  "width":  1080,
+                                                                  "height":  2520
+                                                              },
+                                                 "cutouts":  [
+
+                                                             ]
+                                             },
+                                             {
+                                                 "orientation":  3,
+                                                 "safeArea":  {
+                                                                  "serializedVersion":  "2",
+                                                                  "x":  120,
+                                                                  "y":  0,
+                                                                  "width":  2520,
+                                                                  "height":  1080
+                                                              },
+                                                 "cutouts":  [
+
+                                                             ]
+                                             },
+                                             {
+                                                 "orientation":  4,
+                                                 "safeArea":  {
+                                                                  "serializedVersion":  "2",
+                                                                  "x":  0,
+                                                                  "y":  0,
+                                                                  "width":  2640,
+                                                                  "height":  1080
+                                                              },
+                                                 "cutouts":  [
+
+                                                             ]
+                                             }
+                                         ]
+                    }
+                ],
+    "systemInfo":  {
+                       "supportsAccelerometer":  true,
+                       "processorType":  "ARM64 FP ASIMD AES",
+                       "deviceModel":  "gamedev razr50-ultra-like",
+                       "processorCount":  8,
+                       "operatingSystem":  "Android OS 14 / API-34",
+                       "graphicsDependentData":  [
+
+                                                 ],
+                       "supportsVibration":  true,
+                       "supportsGyroscope":  true,
+                       "processorFrequency":  2800,
+                       "systemMemorySize":  12288,
+                       "supportsAudio":  true,
+                       "supportsLocationService":  true,
+                       "deviceType":  1,
+                       "operatingSystemFamily":  0
+                   }
+}

@@ -1,0 +1,25 @@
+{
+    "id":  "xiaomi-15-ultra",
+    "shortName":  "Xiaomi 15 Ultra",
+    "brand":  "Xiaomi",
+    "deviceModel":  "25010PN30G",
+    "kind":  "Phone",
+    "portraitWidth":  1440,
+    "portraitHeight":  3200,
+    "landscapeWidth":  3200,
+    "landscapeHeight":  1440,
+    "dpi":  522,
+    "diagonalInches":  6.73,
+    "basedOn":  "Xiaomi 15 Ultra",
+    "notes":  "",
+    "verifiedDate":  "2026-08-10",
+    "verifiedStatus":  "matched",
+    "deviceFile":  "Editor/Devices/xiaomi-15-ultra.device",
+    "sources":  [
+                    {
+                        "title":  "Xiaomi SG 15 Ultra specs",
+                        "url":  "https://www.mi.com/sg/product/xiaomi-15-ultra/specs/",
+                        "quote":  "3200 x 1440, 522 ppi"
+                    }
+                ]
+}

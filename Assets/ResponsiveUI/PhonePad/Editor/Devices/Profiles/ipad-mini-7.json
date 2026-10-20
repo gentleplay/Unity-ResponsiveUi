@@ -1,0 +1,25 @@
+{
+    "id":  "ipad-mini-7",
+    "shortName":  "iPad mini 7",
+    "brand":  "Apple",
+    "deviceModel":  "iPad16,1",
+    "kind":  "Pad",
+    "portraitWidth":  1488,
+    "portraitHeight":  2266,
+    "landscapeWidth":  2266,
+    "landscapeHeight":  1488,
+    "dpi":  326,
+    "diagonalInches":  8.3,
+    "basedOn":  "Apple iPad mini (A17 Pro)",
+    "notes":  "",
+    "verifiedDate":  "2026-08-10",
+    "verifiedStatus":  "matched",
+    "deviceFile":  "Editor/Devices/ipad-mini-7.device",
+    "sources":  [
+                    {
+                        "title":  "Apple - iPad mini",
+                        "url":  "https://www.apple.com/ipad-mini/specs/",
+                        "quote":  "2266-by-1488 at 326 ppi"
+                    }
+                ]
+}

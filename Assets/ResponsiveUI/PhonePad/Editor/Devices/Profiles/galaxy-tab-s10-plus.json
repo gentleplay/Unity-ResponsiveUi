@@ -1,0 +1,25 @@
+{
+    "id":  "galaxy-tab-s10-plus",
+    "shortName":  "Galaxy Tab S10+",
+    "brand":  "Samsung",
+    "deviceModel":  "SM-X820",
+    "kind":  "Pad",
+    "portraitWidth":  1752,
+    "portraitHeight":  2800,
+    "landscapeWidth":  2800,
+    "landscapeHeight":  1752,
+    "dpi":  266,
+    "diagonalInches":  12.4,
+    "basedOn":  "Samsung Galaxy Tab S10+",
+    "notes":  "",
+    "verifiedDate":  "2026-08-10",
+    "verifiedStatus":  "matched",
+    "deviceFile":  "Editor/Devices/galaxy-tab-s10-plus.device",
+    "sources":  [
+                    {
+                        "title":  "Samsung SG Tab S10 Ultra page",
+                        "url":  "https://www.samsung.com/sg/tablets/galaxy-tab-s/galaxy-tab-s10-ultra-gray-256gb-sm-x926bzaaxsp/",
+                        "quote":  "Tab S10+ 12.4-inch family"
+                    }
+                ]
+}

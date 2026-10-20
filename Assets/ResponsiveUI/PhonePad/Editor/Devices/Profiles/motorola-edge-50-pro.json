@@ -1,0 +1,25 @@
+{
+    "id":  "motorola-edge-50-pro",
+    "shortName":  "Motorola Edge 50 Pro",
+    "brand":  "Motorola",
+    "deviceModel":  "XT2403-2",
+    "kind":  "Phone",
+    "portraitWidth":  1220,
+    "portraitHeight":  2712,
+    "landscapeWidth":  2712,
+    "landscapeHeight":  1220,
+    "dpi":  446,
+    "diagonalInches":  6.7,
+    "basedOn":  "Motorola Edge 50 Pro",
+    "notes":  "",
+    "verifiedDate":  "2026-08-10",
+    "verifiedStatus":  "approx",
+    "deviceFile":  "Editor/Devices/motorola-edge-50-pro.device",
+    "sources":  [
+                    {
+                        "title":  "Motorola edge 50 pro",
+                        "url":  "https://www.motorola.com/us/smartphones-edge-50-pro/p",
+                        "quote":  "Product page"
+                    }
+                ]
+}

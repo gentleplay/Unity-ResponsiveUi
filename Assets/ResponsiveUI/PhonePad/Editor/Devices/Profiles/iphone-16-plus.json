@@ -1,0 +1,25 @@
+{
+    "id":  "iphone-16-plus",
+    "shortName":  "iPhone 16 Plus",
+    "brand":  "Apple",
+    "deviceModel":  "iPhone17,4",
+    "kind":  "Phone",
+    "portraitWidth":  1290,
+    "portraitHeight":  2796,
+    "landscapeWidth":  2796,
+    "landscapeHeight":  1290,
+    "dpi":  460,
+    "diagonalInches":  6.7,
+    "basedOn":  "Apple iPhone 16 Plus",
+    "notes":  "",
+    "verifiedDate":  "2026-08-10",
+    "verifiedStatus":  "matched",
+    "deviceFile":  "Editor/Devices/iphone-16-plus.device",
+    "sources":  [
+                    {
+                        "title":  "Apple - iPhone 16 Plus",
+                        "url":  "https://www.apple.com/iphone-16/specs/",
+                        "quote":  "2796-by-1290 at 460 ppi"
+                    }
+                ]
+}

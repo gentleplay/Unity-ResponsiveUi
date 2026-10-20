@@ -1,0 +1,25 @@
+{
+    "id":  "galaxy-a56",
+    "shortName":  "Galaxy A56",
+    "brand":  "Samsung",
+    "deviceModel":  "SM-A566",
+    "kind":  "Phone",
+    "portraitWidth":  1080,
+    "portraitHeight":  2340,
+    "landscapeWidth":  2340,
+    "landscapeHeight":  1080,
+    "dpi":  385,
+    "diagonalInches":  6.7,
+    "basedOn":  "Samsung Galaxy A56",
+    "notes":  "",
+    "verifiedDate":  "2026-08-10",
+    "verifiedStatus":  "matched",
+    "deviceFile":  "Editor/Devices/galaxy-a56.device",
+    "sources":  [
+                    {
+                        "title":  "GSMArena Galaxy A56",
+                        "url":  "https://www.gsmarena.com/samsung_galaxy_a56-13603.php",
+                        "quote":  "1080 x 2340 pixels (~385 ppi); 6.7-inch"
+                    }
+                ]
+}

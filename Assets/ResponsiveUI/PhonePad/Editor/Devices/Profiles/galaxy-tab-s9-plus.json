@@ -1,0 +1,25 @@
+{
+    "id":  "galaxy-tab-s9-plus",
+    "shortName":  "Galaxy Tab S9+",
+    "brand":  "Samsung",
+    "deviceModel":  "SM-X810",
+    "kind":  "Pad",
+    "portraitWidth":  1752,
+    "portraitHeight":  2800,
+    "landscapeWidth":  2800,
+    "landscapeHeight":  1752,
+    "dpi":  266,
+    "diagonalInches":  12.4,
+    "basedOn":  "Samsung Galaxy Tab S9+",
+    "notes":  "",
+    "verifiedDate":  "2026-08-10",
+    "verifiedStatus":  "matched",
+    "deviceFile":  "Editor/Devices/galaxy-tab-s9-plus.device",
+    "sources":  [
+                    {
+                        "title":  "Samsung Galaxy Tab S9+",
+                        "url":  "https://www.samsung.com/us/tablets/galaxy-tab-s9/",
+                        "quote":  "2800 x 1752"
+                    }
+                ]
+}

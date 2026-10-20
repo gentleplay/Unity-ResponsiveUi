@@ -1,0 +1,55 @@
+{
+    "id":  "pixel-fold-like",
+    "shortName":  "Pixel Fold-like",
+    "listCategory":  "Fold",
+    "deviceModel":  "gamedev pixel-fold-like",
+    "kind":  "FoldablePhone",
+    "preferredHinge":  "Horizontal",
+    "preferSeparating":  false,
+    "basedOn":  "Google Pixel Fold",
+    "notes":  "Normal = Cover. Expand / Expand Half Opened = Inner.",
+    "verifiedDate":  "2026-08-07",
+    "verifiedStatus":  "matched",
+    "sources":  [
+                    {
+                        "title":  "GSMArena - Pixel Fold",
+                        "url":  "https://www.gsmarena.com/google_pixel_fold-12265.php",
+                        "quote":  "Cover 1080x2092; Inner portrait 1840x2208 / landscape 2208x1840"
+                    }
+                ],
+    "skins":  {
+                  "deviceFile":  "Editor/Devices/Pixel Fold-like.device",
+                  "overlays":  [
+                                   {
+                                       "screen":  "Cover",
+                                       "path":  "Editor/Devices/DeviceOverlays/PixelFoldLike_Cover_Overlay.png"
+                                   },
+                                   {
+                                       "screen":  "Inner",
+                                       "path":  "Editor/Devices/DeviceOverlays/PixelFoldLike_Inner_Overlay.png"
+                                   }
+                               ]
+              },
+    "screens":  [
+                    {
+                        "name":  "Cover",
+                        "width":  1080,
+                        "height":  2092,
+                        "portraitWidth":  1080,
+                        "portraitHeight":  2092,
+                        "landscapeWidth":  2092,
+                        "landscapeHeight":  1080,
+                        "coverOrOuter":  true
+                    },
+                    {
+                        "name":  "Inner",
+                        "width":  1840,
+                        "height":  2208,
+                        "portraitWidth":  1840,
+                        "portraitHeight":  2208,
+                        "landscapeWidth":  2208,
+                        "landscapeHeight":  1840,
+                        "coverOrOuter":  false
+                    }
+                ]
+}

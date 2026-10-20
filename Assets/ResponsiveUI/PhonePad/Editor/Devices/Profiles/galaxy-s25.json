@@ -1,0 +1,25 @@
+{
+    "id":  "galaxy-s25",
+    "shortName":  "Galaxy S25",
+    "brand":  "Samsung",
+    "deviceModel":  "SM-S931",
+    "kind":  "Phone",
+    "portraitWidth":  1080,
+    "portraitHeight":  2340,
+    "landscapeWidth":  2340,
+    "landscapeHeight":  1080,
+    "dpi":  416,
+    "diagonalInches":  6.2,
+    "basedOn":  "Samsung Galaxy S25",
+    "notes":  "",
+    "verifiedDate":  "2026-08-10",
+    "verifiedStatus":  "matched",
+    "deviceFile":  "Editor/Devices/galaxy-s25.device",
+    "sources":  [
+                    {
+                        "title":  "Samsung UK S25 vs A",
+                        "url":  "https://www.samsung.com/uk/support/mobile-devices/what-are-the-differences-between-the-galaxy-s25-series-and-a-series/",
+                        "quote":  "S25 FHD+ 2340 x 1080"
+                    }
+                ]
+}

@@ -1,0 +1,25 @@
+{
+    "id":  "ipad-pro-12-9",
+    "shortName":  "iPad Pro 12.9",
+    "brand":  "Apple",
+    "deviceModel":  "iPad13,8",
+    "kind":  "Pad",
+    "portraitWidth":  2048,
+    "portraitHeight":  2732,
+    "landscapeWidth":  2732,
+    "landscapeHeight":  2048,
+    "dpi":  264,
+    "diagonalInches":  12.9,
+    "basedOn":  "Apple iPad Pro 12.9-inch",
+    "notes":  "Pre-M4 12.9-inch generation",
+    "verifiedDate":  "2026-08-10",
+    "verifiedStatus":  "matched",
+    "deviceFile":  "Editor/Devices/ipad-pro-12-9.device",
+    "sources":  [
+                    {
+                        "title":  "Apple Support - iPad Pro 12.9",
+                        "url":  "https://support.apple.com/en-us/111845",
+                        "quote":  "2732-by-2048"
+                    }
+                ]
+}

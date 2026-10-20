@@ -1,0 +1,25 @@
+{
+    "id":  "xiaomi-15",
+    "shortName":  "Xiaomi 15",
+    "brand":  "Xiaomi",
+    "deviceModel":  "24129PN74G",
+    "kind":  "Phone",
+    "portraitWidth":  1200,
+    "portraitHeight":  2670,
+    "landscapeWidth":  2670,
+    "landscapeHeight":  1200,
+    "dpi":  460,
+    "diagonalInches":  6.36,
+    "basedOn":  "Xiaomi 15",
+    "notes":  "",
+    "verifiedDate":  "2026-08-10",
+    "verifiedStatus":  "matched",
+    "deviceFile":  "Editor/Devices/xiaomi-15.device",
+    "sources":  [
+                    {
+                        "title":  "Xiaomi SG 15 specs",
+                        "url":  "https://www.mi.com/sg/product/xiaomi-15/specs/",
+                        "quote":  "2670 x 1200, 460 ppi"
+                    }
+                ]
+}

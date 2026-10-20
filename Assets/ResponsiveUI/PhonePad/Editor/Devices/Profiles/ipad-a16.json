@@ -1,0 +1,25 @@
+{
+    "id":  "ipad-a16",
+    "shortName":  "iPad (A16)",
+    "brand":  "Apple",
+    "deviceModel":  "iPad15,7",
+    "kind":  "Pad",
+    "portraitWidth":  1640,
+    "portraitHeight":  2360,
+    "landscapeWidth":  2360,
+    "landscapeHeight":  1640,
+    "dpi":  264,
+    "diagonalInches":  11,
+    "basedOn":  "Apple iPad (A16)",
+    "notes":  "",
+    "verifiedDate":  "2026-08-10",
+    "verifiedStatus":  "matched",
+    "deviceFile":  "Editor/Devices/ipad-a16.device",
+    "sources":  [
+                    {
+                        "title":  "Apple - iPad 11-inch (A16) specs",
+                        "url":  "https://www.apple.com/ipad-11/specs/",
+                        "quote":  "2360-by-1640-pixel resolution at 264 ppi"
+                    }
+                ]
+}

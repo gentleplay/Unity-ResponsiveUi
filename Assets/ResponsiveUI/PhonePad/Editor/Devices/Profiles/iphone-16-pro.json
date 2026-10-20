@@ -1,0 +1,25 @@
+{
+    "id":  "iphone-16-pro",
+    "shortName":  "iPhone 16 Pro",
+    "brand":  "Apple",
+    "deviceModel":  "iPhone17,1",
+    "kind":  "Phone",
+    "portraitWidth":  1206,
+    "portraitHeight":  2622,
+    "landscapeWidth":  2622,
+    "landscapeHeight":  1206,
+    "dpi":  460,
+    "diagonalInches":  6.3,
+    "basedOn":  "Apple iPhone 16 Pro",
+    "notes":  "",
+    "verifiedDate":  "2026-08-10",
+    "verifiedStatus":  "matched",
+    "deviceFile":  "Editor/Devices/iphone-16-pro.device",
+    "sources":  [
+                    {
+                        "title":  "Apple Support - iPhone 16 Pro",
+                        "url":  "https://support.apple.com/en-us/121029",
+                        "quote":  "2622-by-1206 at 460 ppi"
+                    }
+                ]
+}

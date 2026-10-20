@@ -1,0 +1,25 @@
+{
+    "id":  "pixel-8",
+    "shortName":  "Pixel 8",
+    "brand":  "Google",
+    "deviceModel":  "Pixel 8",
+    "kind":  "Phone",
+    "portraitWidth":  1080,
+    "portraitHeight":  2400,
+    "landscapeWidth":  2400,
+    "landscapeHeight":  1080,
+    "dpi":  428,
+    "diagonalInches":  6.2,
+    "basedOn":  "Google Pixel 8",
+    "notes":  "",
+    "verifiedDate":  "2026-08-10",
+    "verifiedStatus":  "matched",
+    "deviceFile":  "Editor/Devices/pixel-8.device",
+    "sources":  [
+                    {
+                        "title":  "Google Pixel hardware specs",
+                        "url":  "https://support.google.com/pixelphone/answer/7158570",
+                        "quote":  "1080 x 2400 OLED at 428 PPI"
+                    }
+                ]
+}

@@ -1,0 +1,25 @@
+{
+    "id":  "redmi-note-14-pro",
+    "shortName":  "Redmi Note 14 Pro",
+    "brand":  "Xiaomi",
+    "deviceModel":  "24117RN76G",
+    "kind":  "Phone",
+    "portraitWidth":  1220,
+    "portraitHeight":  2712,
+    "landscapeWidth":  2712,
+    "landscapeHeight":  1220,
+    "dpi":  446,
+    "diagonalInches":  6.67,
+    "basedOn":  "Xiaomi Redmi Note 14 Pro",
+    "notes":  "Confirm regional SKU panel on local mi.com",
+    "verifiedDate":  "2026-08-10",
+    "verifiedStatus":  "approx",
+    "deviceFile":  "Editor/Devices/redmi-note-14-pro.device",
+    "sources":  [
+                    {
+                        "title":  "Xiaomi global",
+                        "url":  "https://www.mi.com/global/",
+                        "quote":  "Family listing; regional panels may vary"
+                    }
+                ]
+}

@@ -1,0 +1,25 @@
+{
+    "id":  "ipad-pro-11-m4",
+    "shortName":  "iPad Pro 11 M4",
+    "brand":  "Apple",
+    "deviceModel":  "iPad16,3",
+    "kind":  "Pad",
+    "portraitWidth":  1668,
+    "portraitHeight":  2420,
+    "landscapeWidth":  2420,
+    "landscapeHeight":  1668,
+    "dpi":  264,
+    "diagonalInches":  11.1,
+    "basedOn":  "Apple iPad Pro 11-inch (M4)",
+    "notes":  "",
+    "verifiedDate":  "2026-08-10",
+    "verifiedStatus":  "matched",
+    "deviceFile":  "Editor/Devices/ipad-pro-11-m4.device",
+    "sources":  [
+                    {
+                        "title":  "Apple Support - iPad Pro 11 M4",
+                        "url":  "https://support.apple.com/en-us/119892",
+                        "quote":  "2420-by-1668 at 264 ppi"
+                    }
+                ]
+}

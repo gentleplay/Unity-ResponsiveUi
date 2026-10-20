@@ -1,0 +1,55 @@
+{
+    "id":  "galaxy-z-fold7-like",
+    "shortName":  "Galaxy Z Fold7-like",
+    "listCategory":  "Fold",
+    "deviceModel":  "gamedev fold7-like",
+    "kind":  "FoldablePhone",
+    "preferredHinge":  "Horizontal",
+    "preferSeparating":  false,
+    "basedOn":  "Samsung Galaxy Z Fold7",
+    "notes":  "Normal = Cover. Expand / Flex = Inner.",
+    "verifiedDate":  "2026-08-07",
+    "verifiedStatus":  "matched",
+    "sources":  [
+                    {
+                        "title":  "Samsung Support - Fold7 display",
+                        "url":  "https://www.samsung.com/sa_en/support/mobile-devices/what-is-the-display-size-resolution-of-galaxy-flip-7-galaxy-fold-7/",
+                        "quote":  "Cover 1080x2520; Inner 1968x2184"
+                    }
+                ],
+    "skins":  {
+                  "deviceFile":  "Editor/Devices/Galaxy Z Fold7-like.device",
+                  "overlays":  [
+                                   {
+                                       "screen":  "Cover",
+                                       "path":  "Editor/Devices/DeviceOverlays/GalaxyZFold7Like_Cover_Overlay.png"
+                                   },
+                                   {
+                                       "screen":  "Inner",
+                                       "path":  "Editor/Devices/DeviceOverlays/GalaxyZFold7Like_Inner_Overlay.png"
+                                   }
+                               ]
+              },
+    "screens":  [
+                    {
+                        "name":  "Cover",
+                        "width":  1080,
+                        "height":  2520,
+                        "portraitWidth":  1080,
+                        "portraitHeight":  2520,
+                        "landscapeWidth":  2520,
+                        "landscapeHeight":  1080,
+                        "coverOrOuter":  true
+                    },
+                    {
+                        "name":  "Inner",
+                        "width":  1968,
+                        "height":  2184,
+                        "portraitWidth":  1968,
+                        "portraitHeight":  2184,
+                        "landscapeWidth":  2184,
+                        "landscapeHeight":  1968,
+                        "coverOrOuter":  false
+                    }
+                ]
+}

@@ -1,0 +1,25 @@
+{
+    "id":  "pixel-10-pro-xl",
+    "shortName":  "Pixel 10 Pro XL",
+    "brand":  "Google",
+    "deviceModel":  "Pixel 10 Pro XL",
+    "kind":  "Phone",
+    "portraitWidth":  1344,
+    "portraitHeight":  2992,
+    "landscapeWidth":  2992,
+    "landscapeHeight":  1344,
+    "dpi":  486,
+    "diagonalInches":  6.8,
+    "basedOn":  "Google Pixel 10 Pro XL",
+    "notes":  "",
+    "verifiedDate":  "2026-08-10",
+    "verifiedStatus":  "matched",
+    "deviceFile":  "Editor/Devices/pixel-10-pro-xl.device",
+    "sources":  [
+                    {
+                        "title":  "Google Pixel hardware specs",
+                        "url":  "https://support.google.com/pixelphone/answer/7158570",
+                        "quote":  "1344 x 2992 at 486 PPI"
+                    }
+                ]
+}

@@ -1,0 +1,25 @@
+{
+    "id":  "pixel-8a",
+    "shortName":  "Pixel 8a",
+    "brand":  "Google",
+    "deviceModel":  "Pixel 8a",
+    "kind":  "Phone",
+    "portraitWidth":  1080,
+    "portraitHeight":  2400,
+    "landscapeWidth":  2400,
+    "landscapeHeight":  1080,
+    "dpi":  430,
+    "diagonalInches":  6.1,
+    "basedOn":  "Google Pixel 8a",
+    "notes":  "",
+    "verifiedDate":  "2026-08-10",
+    "verifiedStatus":  "matched",
+    "deviceFile":  "Editor/Devices/pixel-8a.device",
+    "sources":  [
+                    {
+                        "title":  "Google Pixel hardware specs",
+                        "url":  "https://support.google.com/pixelphone/answer/7158570",
+                        "quote":  "1080 x 2400 OLED at 430 PPI"
+                    }
+                ]
+}

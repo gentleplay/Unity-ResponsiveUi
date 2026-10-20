@@ -1,0 +1,55 @@
+{
+    "id":  "galaxy-z-trifold-like",
+    "shortName":  "Galaxy Z TriFold-like",
+    "listCategory":  "Fold",
+    "deviceModel":  "gamedev trifold-like",
+    "kind":  "FoldablePhone",
+    "preferredHinge":  "Horizontal",
+    "preferSeparating":  false,
+    "basedOn":  "Samsung Galaxy Z TriFold",
+    "notes":  "Normal = Cover. Expand / Flex = Inner (fully open).",
+    "verifiedDate":  "2026-08-07",
+    "verifiedStatus":  "matched",
+    "sources":  [
+                    {
+                        "title":  "GSMArena - Z TriFold",
+                        "url":  "https://www.gsmarena.com/samsung_galaxy_z_trifold_5g-14292.php",
+                        "quote":  "Cover 1080x2520; Inner 1584x2160"
+                    }
+                ],
+    "skins":  {
+                  "deviceFile":  "Editor/Devices/Galaxy Z TriFold-like.device",
+                  "overlays":  [
+                                   {
+                                       "screen":  "Cover",
+                                       "path":  "Editor/Devices/DeviceOverlays/GalaxyZTriFoldLike_Cover_Overlay.png"
+                                   },
+                                   {
+                                       "screen":  "Inner",
+                                       "path":  "Editor/Devices/DeviceOverlays/GalaxyZTriFoldLike_Inner_Overlay.png"
+                                   }
+                               ]
+              },
+    "screens":  [
+                    {
+                        "name":  "Cover",
+                        "width":  1080,
+                        "height":  2520,
+                        "portraitWidth":  1080,
+                        "portraitHeight":  2520,
+                        "landscapeWidth":  2520,
+                        "landscapeHeight":  1080,
+                        "coverOrOuter":  true
+                    },
+                    {
+                        "name":  "Inner",
+                        "width":  1584,
+                        "height":  2160,
+                        "portraitWidth":  1584,
+                        "portraitHeight":  2160,
+                        "landscapeWidth":  2160,
+                        "landscapeHeight":  1584,
+                        "coverOrOuter":  false
+                    }
+                ]
+}

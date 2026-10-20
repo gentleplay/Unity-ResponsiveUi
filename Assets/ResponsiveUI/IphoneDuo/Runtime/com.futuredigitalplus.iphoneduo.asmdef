@@ -1,0 +1,16 @@
+{
+    "name": "com.futuredigitalplus.iphoneduo",
+    "rootNamespace": "FDPlus.IphoneDuo",
+    "references": [
+        "com.futuredigitalplus.foldandflip"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

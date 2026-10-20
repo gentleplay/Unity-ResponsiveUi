@@ -1,0 +1,55 @@
+{
+    "id":  "honor-magic-v3-like",
+    "shortName":  "Honor Magic V3-like",
+    "listCategory":  "Fold",
+    "deviceModel":  "gamedev magic-v3-like",
+    "kind":  "FoldablePhone",
+    "preferredHinge":  "Horizontal",
+    "preferSeparating":  false,
+    "basedOn":  "Honor Magic V3",
+    "notes":  "Normal = Cover. Expand / Flex = Inner.",
+    "verifiedDate":  "2026-08-07",
+    "verifiedStatus":  "matched",
+    "sources":  [
+                    {
+                        "title":  "GSMArena - Magic V3",
+                        "url":  "https://www.gsmarena.com/honor_magic_v3-13202.php",
+                        "quote":  "Cover 1060x2376; Inner 2156x2344"
+                    }
+                ],
+    "skins":  {
+                  "deviceFile":  "Editor/Devices/Honor Magic V3-like.device",
+                  "overlays":  [
+                                   {
+                                       "screen":  "Cover",
+                                       "path":  "Editor/Devices/DeviceOverlays/HonorMagicV3Like_Cover_Overlay.png"
+                                   },
+                                   {
+                                       "screen":  "Inner",
+                                       "path":  "Editor/Devices/DeviceOverlays/HonorMagicV3Like_Inner_Overlay.png"
+                                   }
+                               ]
+              },
+    "screens":  [
+                    {
+                        "name":  "Cover",
+                        "width":  1060,
+                        "height":  2376,
+                        "portraitWidth":  1060,
+                        "portraitHeight":  2376,
+                        "landscapeWidth":  2376,
+                        "landscapeHeight":  1060,
+                        "coverOrOuter":  true
+                    },
+                    {
+                        "name":  "Inner",
+                        "width":  2156,
+                        "height":  2344,
+                        "portraitWidth":  2156,
+                        "portraitHeight":  2344,
+                        "landscapeWidth":  2344,
+                        "landscapeHeight":  2156,
+                        "coverOrOuter":  false
+                    }
+                ]
+}

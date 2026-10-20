@@ -1,0 +1,25 @@
+{
+    "id":  "huawei-pura-80-pro",
+    "shortName":  "Pura 80 Pro",
+    "brand":  "Huawei",
+    "deviceModel":  "Pura 80 Pro",
+    "kind":  "Phone",
+    "portraitWidth":  1276,
+    "portraitHeight":  2848,
+    "landscapeWidth":  2848,
+    "landscapeHeight":  1276,
+    "dpi":  459,
+    "diagonalInches":  6.8,
+    "basedOn":  "Huawei Pura 80 Pro",
+    "notes":  "",
+    "verifiedDate":  "2026-08-10",
+    "verifiedStatus":  "matched",
+    "deviceFile":  "Editor/Devices/huawei-pura-80-pro.device",
+    "sources":  [
+                    {
+                        "title":  "HUAWEI Pura 80 Pro specs",
+                        "url":  "https://consumer.huawei.com/en/phones/pura80-pro/specs/",
+                        "quote":  "2848 x 1276 Pixels; 6.8-inch LTPO OLED"
+                    }
+                ]
+}

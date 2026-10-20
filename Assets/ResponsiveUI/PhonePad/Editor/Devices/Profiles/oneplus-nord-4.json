@@ -1,0 +1,25 @@
+{
+    "id":  "oneplus-nord-4",
+    "shortName":  "OnePlus Nord 4",
+    "brand":  "OnePlus",
+    "deviceModel":  "CPH2663",
+    "kind":  "Phone",
+    "portraitWidth":  1240,
+    "portraitHeight":  2772,
+    "landscapeWidth":  2772,
+    "landscapeHeight":  1240,
+    "dpi":  450,
+    "diagonalInches":  6.74,
+    "basedOn":  "OnePlus Nord 4",
+    "notes":  "",
+    "verifiedDate":  "2026-08-10",
+    "verifiedStatus":  "approx",
+    "deviceFile":  "Editor/Devices/oneplus-nord-4.device",
+    "sources":  [
+                    {
+                        "title":  "OnePlus Nord 4",
+                        "url":  "https://www.oneplus.com/nord-4",
+                        "quote":  "Product page"
+                    }
+                ]
+}

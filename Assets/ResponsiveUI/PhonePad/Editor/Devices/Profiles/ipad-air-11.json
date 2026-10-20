@@ -1,0 +1,25 @@
+{
+    "id":  "ipad-air-11",
+    "shortName":  "iPad Air 11",
+    "brand":  "Apple",
+    "deviceModel":  "iPad14,8",
+    "kind":  "Pad",
+    "portraitWidth":  1640,
+    "portraitHeight":  2360,
+    "landscapeWidth":  2360,
+    "landscapeHeight":  1640,
+    "dpi":  264,
+    "diagonalInches":  11,
+    "basedOn":  "Apple iPad Air 11-inch",
+    "notes":  "",
+    "verifiedDate":  "2026-08-10",
+    "verifiedStatus":  "matched",
+    "deviceFile":  "Editor/Devices/ipad-air-11.device",
+    "sources":  [
+                    {
+                        "title":  "Apple - iPad Air",
+                        "url":  "https://www.apple.com/ipad-air/specs/",
+                        "quote":  "2360-by-1640"
+                    }
+                ]
+}

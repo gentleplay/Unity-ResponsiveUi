@@ -1,0 +1,25 @@
+{
+    "id":  "xiaomi-pad-6",
+    "shortName":  "Xiaomi Pad 6",
+    "brand":  "Xiaomi",
+    "deviceModel":  "23073RPBFG",
+    "kind":  "Pad",
+    "portraitWidth":  1800,
+    "portraitHeight":  2880,
+    "landscapeWidth":  2880,
+    "landscapeHeight":  1800,
+    "dpi":  309,
+    "diagonalInches":  11,
+    "basedOn":  "Xiaomi Pad 6",
+    "notes":  "",
+    "verifiedDate":  "2026-08-10",
+    "verifiedStatus":  "matched",
+    "deviceFile":  "Editor/Devices/xiaomi-pad-6.device",
+    "sources":  [
+                    {
+                        "title":  "Xiaomi Pad 6",
+                        "url":  "https://www.mi.com/global/product/xiaomi-pad-6/",
+                        "quote":  "2880 x 1800"
+                    }
+                ]
+}

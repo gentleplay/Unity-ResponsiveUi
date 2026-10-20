@@ -1,0 +1,25 @@
+{
+    "id":  "huawei-p60-pro",
+    "shortName":  "Huawei P60 Pro",
+    "brand":  "Huawei",
+    "deviceModel":  "ALN-AL00",
+    "kind":  "Phone",
+    "portraitWidth":  1220,
+    "portraitHeight":  2700,
+    "landscapeWidth":  2700,
+    "landscapeHeight":  1220,
+    "dpi":  450,
+    "diagonalInches":  6.67,
+    "basedOn":  "Huawei P60 Pro",
+    "notes":  "Confirm on regional Huawei site",
+    "verifiedDate":  "2026-08-10",
+    "verifiedStatus":  "approx",
+    "deviceFile":  "Editor/Devices/huawei-p60-pro.device",
+    "sources":  [
+                    {
+                        "title":  "Huawei P60 Pro",
+                        "url":  "https://consumer.huawei.com/en/phones/p60-pro/",
+                        "quote":  "Display listing"
+                    }
+                ]
+}

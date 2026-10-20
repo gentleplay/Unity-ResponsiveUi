@@ -1,0 +1,30 @@
+{
+    "name": "com.futuredigitalplus.responsiveui.tests.editor",
+    "rootNamespace": "FDPlus.ResponsiveUI.Tests",
+    "references": [
+        "com.futuredigitalplus.responsiveui",
+        "com.futuredigitalplus.responsiveui.editor",
+        "com.futuredigitalplus.responsiveui.shared.editor",
+        "com.futuredigitalplus.foldandflip",
+        "com.futuredigitalplus.foldandflip.editor",
+        "com.futuredigitalplus.iphoneduo",
+        "com.futuredigitalplus.phonepad.simulator.editor",
+        "Unity.TextMeshPro"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false,
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ]
+}

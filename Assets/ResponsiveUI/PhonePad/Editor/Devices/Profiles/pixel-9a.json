@@ -1,0 +1,25 @@
+{
+    "id":  "pixel-9a",
+    "shortName":  "Pixel 9a",
+    "brand":  "Google",
+    "deviceModel":  "Pixel 9a",
+    "kind":  "Phone",
+    "portraitWidth":  1080,
+    "portraitHeight":  2424,
+    "landscapeWidth":  2424,
+    "landscapeHeight":  1080,
+    "dpi":  422,
+    "diagonalInches":  6.3,
+    "basedOn":  "Google Pixel 9a",
+    "notes":  "",
+    "verifiedDate":  "2026-08-10",
+    "verifiedStatus":  "matched",
+    "deviceFile":  "Editor/Devices/pixel-9a.device",
+    "sources":  [
+                    {
+                        "title":  "Google Pixel hardware specs",
+                        "url":  "https://support.google.com/pixelphone/answer/7158570",
+                        "quote":  "1080 x 2424 at 422 PPI"
+                    }
+                ]
+}

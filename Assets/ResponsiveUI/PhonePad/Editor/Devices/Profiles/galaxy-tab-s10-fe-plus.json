@@ -1,0 +1,25 @@
+{
+    "id":  "galaxy-tab-s10-fe-plus",
+    "shortName":  "Galaxy Tab S10 FE+",
+    "brand":  "Samsung",
+    "deviceModel":  "SM-X620",
+    "kind":  "Pad",
+    "portraitWidth":  1800,
+    "portraitHeight":  2880,
+    "landscapeWidth":  2880,
+    "landscapeHeight":  1800,
+    "dpi":  257,
+    "diagonalInches":  13.1,
+    "basedOn":  "Samsung Galaxy Tab S10 FE+",
+    "notes":  "",
+    "verifiedDate":  "2026-08-10",
+    "verifiedStatus":  "matched",
+    "deviceFile":  "Editor/Devices/galaxy-tab-s10-fe-plus.device",
+    "sources":  [
+                    {
+                        "title":  "Samsung US Galaxy Tab S10 FE+",
+                        "url":  "https://www.samsung.com/us/tablets/galaxy-tab-s10-fe/",
+                        "quote":  "13.1\" LCD (2880 x 1800)"
+                    }
+                ]
+}
